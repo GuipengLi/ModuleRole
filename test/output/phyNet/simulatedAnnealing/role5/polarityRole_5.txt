@@ -1,0 +1,6 @@
+Role number:	5
+The number of nodes with that role:	3
+The following are the proteins with this role:
+DLG4	RRP1B	TUBA1A
+
+

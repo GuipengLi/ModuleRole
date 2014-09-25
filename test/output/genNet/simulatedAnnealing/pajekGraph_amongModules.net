@@ -1,0 +1,4 @@
+*Vertices 2
+1 "module1" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic Cyan bc Black
+2 "module2" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic Yellow bc Black
+*Edges

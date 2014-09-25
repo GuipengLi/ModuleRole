@@ -1,0 +1,13 @@
+2014-09-25--19:39:16[main:0]-[INFO]parameters: test/BIOGRID-ORGANISM-Mus_musculus-3.2.103.tab.txt test/test-genelist.txt test/ress
+2014-09-25--19:39:18[main:1287]-[INFO]   Part1 Finished 
+2014-09-25--19:39:23[main:6343]-[INFO]   Part2.1 Finished 
+2014-09-25--19:39:23[main:6509]-[INFO]   Part2.2 Finished 
+2014-09-25--19:39:27[main:10472]-[INFO]   Part2.3 Finished 
+2014-09-25--19:40:09[main:52571]-[INFO]  Part3 Finished 
+2014-09-25--19:40:12[main:55051]-[INFO]  Part4.1 Finished 
+2014-09-25--19:40:14[main:57679]-[INFO]  Part4.2 Finished 
+2014-09-25--19:40:15[main:58029]-[INFO]  Part4.3 Finished 
+2014-09-25--19:40:16[main:59171]-[INFO]  Part5 Finished 
+2014-09-25--19:40:17[main:60079]-[INFO]  All Work is Finished
+2014-09-25--19:40:17[main:60079]-[INFO]...............Program exit
+

@@ -1,0 +1,9 @@
+Module ID:	17
+Nodes Number in this module:	15
+Total Link Number in this module:	17
+Within-Module link Number in this module:	14
+The Number of links from this module to other modules:	3
+The following are the proteins in this module:
+AP2B1	BCL9L	DLG4	EIF4EBP1	GIT1	GIT2	INADL	JAK1	KCNJ10	KCNJ15	KIF1A	KLF11	MAPK1	PMPCA	PXN
+
+

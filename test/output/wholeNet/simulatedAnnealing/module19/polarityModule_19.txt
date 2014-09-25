@@ -1,0 +1,9 @@
+Module ID:	19
+Nodes Number in this module:	9
+Total Link Number in this module:	12
+Within-Module link Number in this module:	9
+The Number of links from this module to other modules:	3
+The following are the proteins in this module:
+IKBKB	IKBKG	IL1R2	IL1RAP	MAP2K6	MAP3K7	MYD88	RBCK1	TUBB5
+
+

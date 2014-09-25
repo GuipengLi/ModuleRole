@@ -1,0 +1,9 @@
+Module ID:	8
+Nodes Number in this module:	16
+Total Link Number in this module:	21
+Within-Module link Number in this module:	15
+The Number of links from this module to other modules:	6
+The following are the proteins in this module:
+CDCA8	CSDA	DDX21	DDX47	IGKC	IGKV2-40	ILF3	LRRC59	LUC7L2	LUC7L3	LYAR	MKI67	PARP1	PARP2	PRKAR1A	RRP1B
+
+

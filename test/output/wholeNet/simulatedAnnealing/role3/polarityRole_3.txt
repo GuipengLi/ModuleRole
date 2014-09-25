@@ -1,0 +1,6 @@
+Role number:	3
+The number of nodes with that role:	3
+The following are the proteins with this role:
+MAPK14	NCL	RPS6KB1
+
+

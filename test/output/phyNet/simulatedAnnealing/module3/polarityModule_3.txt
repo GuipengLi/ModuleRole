@@ -1,0 +1,9 @@
+Module ID:	3
+Nodes Number in this module:	14
+Total Link Number in this module:	17
+Within-Module link Number in this module:	14
+The Number of links from this module to other modules:	3
+The following are the proteins in this module:
+CD3E	IKBKB	IKBKG	IL1R2	IL1RAP	MAP2K6	MAP3K7	MYD88	NCOA3	PRDX5	PTPN6	RBCK1	SAP18	TUBB5
+
+

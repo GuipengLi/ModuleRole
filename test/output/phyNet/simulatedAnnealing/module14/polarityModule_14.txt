@@ -1,0 +1,9 @@
+Module ID:	14
+Nodes Number in this module:	7
+Total Link Number in this module:	11
+Within-Module link Number in this module:	9
+The Number of links from this module to other modules:	2
+The following are the proteins in this module:
+AP2B1	BECN1	CDC40	EPN2	EPS15	EPS15L1	ITSN1
+
+

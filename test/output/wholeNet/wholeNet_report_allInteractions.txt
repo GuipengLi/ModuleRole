@@ -1,0 +1,1452 @@
+This is total amount of interactions in the GROUP formed by proteins given by user. 
+
+In the following, GROUP is defined by all proteins given by user:
+
+
+For protein ACTL6B: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	SMARCA2	SMARCA4	
+
+For protein ACTN2: 1 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	TUBA1A	
+Links outside:	ADORA2A	AR	FBXO32	GRIN1	GRIN2B	GRIP1	LDB3	RAVER1	
+
+For protein AKAP1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	DNM1L	SIAH2	UBC	
+
+For protein AKT1: 0 links inside the GROUP, and 14 links outside the GROUP:
+Links outside:	AKT2	BCL2L11	BTBD10	CALM1	HIST1H2BC	HIST2H2BB	PAK1	PPARGC1A	PPL	RPL23	SERTAD4	STUB1	TTC3	UBC	
+
+For protein ANAPC5: 1 links inside the GROUP, and 16 links outside the GROUP:
+Links inside:	CDC20	
+Links outside:	ANAPC1	ANAPC13	ANAPC16	ANAPC2	ANAPC4	ANAPC7	BUB1B	CDC16	CDC23	CDC26	CDC27	GM9174	MAD2L1	SMURF1	SMURF2	TGFBR1	
+
+For protein AP1B1: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	ATM	CALM1	CFTR	CREBBP	FOXP3	SNCA	
+
+For protein AP2B1: 2 links inside the GROUP, and 12 links outside the GROUP:
+Links inside:	DLG4	EPS15	
+Links outside:	ACVR1	CALM1	DAB2	EDC4	FOXP3	RARA	RNF111	SH3KBP1	SMAD4	SMURF1	SNCA	YWHAZ	
+
+For protein ARHGEF1: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	FOXP3	SMAD2	SMURF1	SMURF2	
+
+For protein ARHGEF11: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	GSK3A	GSK3B	SMAD4	SMURF1	
+
+For protein ARL4D: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	SMAD2	SMURF1	TGFBR1	
+
+For protein BCL9L: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	DLG4	
+Links outside:	CTNNB1	
+
+For protein BCR: 1 links inside the GROUP, and 10 links outside the GROUP:
+Links inside:	RAC1	
+Links outside:	BMPR1B	CRK	DOK1	DOK2	GRB10	GRB2	TGFBR1	UBC	UBQLN1	YWHAZ	
+
+For protein BECN1: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	ITSN1	
+Links outside:	BCL2	PIK3C3	TAB3	UBC	
+
+For protein CAMK2A: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	ARHGAP32	CALM1	DLG1	GRIN1	SNCA	YWHAZ	
+
+For protein CD3E: 1 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	PTPN6	
+Links outside:	LCK	SHC1	TCRB	VAV1	ZAP70	
+
+For protein CD84: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SH2D1B1	
+
+For protein CDC20: 2 links inside the GROUP, and 20 links outside the GROUP:
+Links inside:	ANAPC5	POU5F1	
+Links outside:	ANAPC1	ANAPC10	ANAPC13	ANAPC16	ANAPC2	ANAPC4	ANAPC7	BUB1	BUB1B	CASC5	CDC16	CDC23	CDC26	CDC27	FBXO5	GM9174	MAD2L1	NUDC	SIRT2	TGFBR1	
+
+For protein CDC40: 2 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	EPS15	EPS15L1	
+Links outside:	SMAD2	SMURF1	SNW1	
+
+For protein CDC42: 4 links inside the GROUP, and 17 links outside the GROUP:
+Links inside:	DIAP3	KIN	NET1	PAK3	
+Links outside:	ARHGAP32	ARHGAP33	ARHGEF7	CIT	DOCK10	DOCK11	DOCK9	HOMER2	IQGAP1	LRRK2	NPHS1	PAFAH1B1	PAK1	PLCB1	ROCK1	SRGAP1	TNK2	
+
+For protein CDC42EP4: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein CDCA8: 1 links inside the GROUP, and 7 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	AURKB	C1QBP	EBNA1BP2	INCENP	MRPS7	RSL1D1	SIRT1	
+
+For protein CDH15: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	ARVCF	CTNNB1	NEO1	
+
+For protein CDH2: 1 links inside the GROUP, and 19 links outside the GROUP:
+Links inside:	NDN	
+Links outside:	ARHGAP32	ARVCF	AXIN1	CSK	CTNNB1	CTNND1	GRIN1	GRIN2B	KIF3B	KIF5C	KIFAP3	LRP5	LRP6	NEO1	NPHP4	NUMB	PIK3R1	PTPRQ	WNT3A	
+
+For protein CDK2: 3 links inside the GROUP, and 20 links outside the GROUP:
+Links inside:	MYBL2	PURA	RB1	
+Links outside:	BCL2	CCNA1	CCNA2	CCND2	CCNE1	CDC6	CDKN1A	CDKN1B	CEBPA	H1	H1F0	HIST1H1A	HIST1H1B	HIST1H1C	LTB	NPM1	PCNA	PPP1CC	SMN1	TRP53	
+
+For protein CSDA: 1 links inside the GROUP, and 10 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	DSK2	HOXA2	NBR1	NUB1	PRMT1	PSMD4	RAD23B	SQSTM1	UBQLN1	VPS9	
+
+For protein CSNK1A1: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	CBX1	COPS2	FBXO32	SNCA	TGFBR1	
+
+For protein CSNK1D: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	FOXP3	PER1	PER2	TGFBR1	
+
+For protein CSNK1E: 1 links inside the GROUP, and 46 links outside the GROUP:
+Links inside:	PGK1	
+Links outside:	AHNAK	AP2A1	AP2M1	APC	ARNTL	AZI1	C1QBP	CEP152	CPS1	CRY1	CRY2	CTNNB1	DVL1	DVL2	EDC4	EIF4A1	EIF5A	FAM110A	FAM110B	FAM83H	GAPVD1	GPI	HNRNPK	LTV1	MCC	NACA	PCBP1	PER1	PER2	PER3	PFN1	PKM2	PPIA	RAN	RRP12	SET	SNX24	SRSF2	STOX2	TAGLN2	TKT	TRP53	TSR1	UBC	USP2	VPS13B	
+
+For protein CSNK2A2: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	KDM2B	RNF2	SET	SMURF1	TGFBR1	
+
+For protein CTBP1: 6 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	CTBP2	HIC1	IKZF1	IKZF4	NRIP1	POU5F1	
+Links outside:	BMPR2	GLIS2	HDAC2	HDAC4	HDAC9	KDM2B	ZEB1	ZFPM1	
+
+For protein CTBP2: 5 links inside the GROUP, and 15 links outside the GROUP:
+Links inside:	CTBP1	HIPK2	IKZF1	NDN	POU5F1	
+Links outside:	EOS	FHL3	HIPK1	KCNIP3	KDM2B	KLF3	PRDM16	RNF2	SALL4	SIP1	TRPS1	UBE2I	UXT	ZEB1	ZFPM1	
+
+For protein CUL2: 1 links inside the GROUP, and 11 links outside the GROUP:
+Links inside:	HTT	
+Links outside:	COPS2	COPS3	COPS5	COPS8	GPS1	MYOG	RBX1	RNF7	SOCS1	VHL	WSB1	
+
+For protein CUL3: 3 links inside the GROUP, and 32 links outside the GROUP:
+Links inside:	KEAP1	NCL	NFE2L2	
+Links outside:	BAZ1B	DDX18	DDX5	DGCR8	DHX9	DNMT1	EEF2	EZH2	FOXP3	FUS	GOLGA2	HDAC1	HIST1H1D	HNRNPK	HNRNPU	HP1BP3	IBTK	KLHDC5	KLHL10	KLHL2	LGALS3BP	LMNB1	NUP155	PTMA	RBX1	RNF7	RORC	SF3B1	SQSTM1	SYNCRIP	TOP2A	ZBTB16	
+
+For protein DDB1: 3 links inside the GROUP, and 38 links outside the GROUP:
+Links inside:	HTT	POU5F1	RPTOR	
+Links outside:	ABL1	AMBRA1	ATM	COPS3	COPS4	COPS5	COPS6	COPS7A	COPS7B	CRBN	CUL4A	CUL4B	DCAF10	DCAF11	DCAF12	DCAF15	DCAF16	DCAF4	DCAF6	DCAF8	DDA1	DDB2	DTL	ERCC8	GPS1	IQCB1	MLST8	MTOR	NEK9	NUDC	PAGE1	PHGDH	RCN1	TRIM28	TRP53	TRPC4AP	VPRBP	WDTC1	
+
+For protein DDX21: 1 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	CTCF	DMRT2	KPNA1	KPNA6	NHP2L1	RPL35	SGOL2	YBX1	
+
+For protein DDX47: 2 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	POU5F1	RRP1B	
+
+For protein DIAP1: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	FYN	HTRA2	PAX6	RHOA	SRC	YES1	
+
+For protein DIAP3: 1 links inside the GROUP, and 2 links outside the GROUP:
+Links inside:	CDC42	
+Links outside:	RHO1	RHOA	
+
+For protein DLG4: 9 links inside the GROUP, and 289 links outside the GROUP:
+Links inside:	AP2B1	BCL9L	GIT2	INADL	JAK1	KIF1A	MAPK1	MAPK14	PMPCA	
+Links outside:	A4GALT	AASS	ABCG5	ABHD5	ABL2	ABR	ACCN1	ACTG1	ADAM20	ADCK5	ADCY3	AGBL5	AJAP1	AKR7A2P1	ALS2	ANKRD24	AP3B2	ARAP2	ARC	ARHGAP32	ASAP1	ATN1	ATP1A1	ATXN2	B4GALT1	BEST4	BMP8A	BMPR1B	BTN2A3P	C1ORF52	C1S	C20ORF160	C20ORF26	C9ORF79	CACHD1	CASP10	CBLB	CC2D1A	CDC27	CDH23	CDH4	CDK11A	CDK15	CDK17	CDK7	CDKL5	CDRT15	CEBPD	CELSR1	CHERP	CHRM1	CIDEA	CLCNKB	CLN5	CNGB1	CNTN3	COBRA1	COL27A1	COQ10A	CPSF7	CPXCR1	CSMD2	CTAGE1	CTAGE5	CYP24A1	DENND2A	DERL2	DIAPH2	DIAPH3	DIDO1	DMRT1	DNAH7	DNMT1	DOC2B	DOK1	DQX1	DUX3	EIF2S1	EIF4E2	EIF4G2	ENPP1	ENPP2	ENPP3	EP400	EPB41L3	ESX1	EZH2	FAM40A	FCHSD1	FGD5	FKSG49	FLNB	FMNL3	FMOD	FOLH1	FOXQ1	FRAS1	GAB1	GAB3	GABBR2	GALNT10	GALNT7	GAS2L2	GPR63	GRIA2	GRIN1	GRIN2A	GRIN2B	GRIN2C	GRIN2D	GTF3C1	GUCY2F	HCLS1	HDAC2	HEATR1	HGD	HNRNPK	HOMER2	HUNK	IDS	IGSF22	IRF7	ITM2C	KCNA4	KCND2	KERA	KIFC2	KLF4	KLF8	KLHDC8B	KLHL17	KRBA1	LRP1	LRRTM4	MAOB	MAP1A	MARCH10	MARCH9	MASP2	MBP	MBTPS1	MDM2	MED12L	MED24	MEF2A	MN1	MNT	MYCBPAP	MYPN	MYRIP	NCKAP5	NEU4	NEUROG2	NFATC4	NFE2	NFRKB	NKX2-1	NKX2-2	NLRP12	NMB	NOTCH4	NOXA1	NRCAM	NSUN4	NTNG2	NTRK2	OBSCN	OLFML3	PAX6	PAX7	PCDH15	PCDHA13	PCDHGA7	PCLO	PDE4A	PDX1	PGR	PHACTR1	PHF20	PHF8	PIK3AP1	PIK3C2A	PIKFYVE	PLEKHH3	PMEPA1	PNMA2	POLG	POU3F3	PPP1R15A	PPP2R5D	PRAMEF4	PRC1	PRDM14	PRELP	PRG4	PRKAR1B	PTBP1	PTBP3	PTGS1	PTPN1	PYGO1	QPCTL	RALGPS1	RAP1GAP	RAPGEF2	RARA	RASGRP1	RBM26	RC3H1	REPIN1	RGS9	RIMS2	RIN1	RNPS1	ROBO2	RSF1	RTF1	RTKN2	RUNX3	RYBP	SAP25	SCN2A	SCYL2	SEMA4F	SF3B2	SGK223	SH3KBP1	SHANK1	SIM2	SMARCC1	SNRPN	SNTB2	SNW1	SNX22	SNX24	SNX8	SOS1	SOS2	SOX7	SPATA16	SQSTM1	SRCAP	SRGAP3	SRRM2	STAP2	STRADB	SUSD2	SUV420H2	SYNPO2L	SYTL3	TACC2	TAF1L	TBX3	TCERG1	THY1	TIE1	TMEM237	TMEM54	TNIK	TOMM40	TOX3	TP53BP2	TRAF3IP2	TRIM46	TTLL11	TTN	TTYH2	TYRO3	UBC	UBTF	USP21	USP32	USP42	UST	WFDC3	XPO5	YTHDF1	ZBTB40	ZCCHC7	ZDHHC12	ZFR	ZIC5	ZMIZ1	ZMYM3	ZNF200	ZNF207	ZNF217	ZNF622	ZSWIM4	
+
+For protein DLL1: 0 links inside the GROUP, and 8 links outside the GROUP:
+Links outside:	MIB1	MIB2	NEURL1A	NEURL1B	NEURL2	NOTCH1	PSEN1	UBC	
+
+For protein EFNA1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	RPL28	SBDS	TGFBR1	
+
+For protein EFS: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	FYN	PTK2	PTK2B	SRC	
+
+For protein EGFR: 3 links inside the GROUP, and 17 links outside the GROUP:
+Links inside:	EPS15	JAK2	MAPK14	
+Links outside:	ARHGEF7	BTC	CBL	ERBB2	GRAP2	GRB2	PARK2	PLA2G2A	PPP1CC	SHC1	SOCS5	SRC	STAT1	SYNGAP1	TYK2	UBC	USP8	
+
+For protein EIF2AK1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein EIF2AK4: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	SMAD4	TGFBR1	
+
+For protein EIF4EBP1: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	MAPK1	
+Links outside:	EIF4E	RAD23B	UBC	
+
+For protein ELP3: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SMURF1	
+
+For protein EN1: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	JUN	
+Links outside:	DKK1	
+
+For protein ENC1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein EP300: 4 links inside the GROUP, and 44 links outside the GROUP:
+Links inside:	HIF1A	KAT2A	KAT2B	NCOA1	
+Links outside:	ACTB	ATF2	BCL11B	CCNT1	CDK9	CEBPA	CEBPB	CHD4	EPC1	FOXO3	FOXP3	GATA4	H2B	H3F3A	H4	HIST1H2AC	HIST3H2A	MECP2	MYOCD	MYOD1	NR1H4	NUPR1	PIK3R1	PITX2	POLR2A	RARA	RARB	RARG	RELA	RXRA	SFPI1	SIRT1	SMAD3A	SMAD3B	STAT2	STAT3	TCF12	TLE6	TRP53	UBC	UBTF	USF1	YY1	ZBTB7B	
+
+For protein EPHA1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SMURF2	
+
+For protein EPN2: 3 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	EPS15	EPS15L1	ITSN1	
+
+For protein EPS15: 5 links inside the GROUP, and 11 links outside the GROUP:
+Links inside:	AP2B1	CDC40	EGFR	EPN2	ITSN1	
+Links outside:	AGFG1	AGFG2	AP2A1	AP2A2	DAB2	DNM1	FCHO2	NUMB	NUMBL	PARK2	ZWINT	
+
+For protein EPS15L1: 3 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	CDC40	EPN2	ITSN1	
+Links outside:	AGFG1	AGFG2	CYCS	FCHO2	NDC80	NUMB	NUMBL	ZWINT	
+
+For protein ERBB3: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SHC1	
+
+For protein FBXO24: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	SMURF1	TGFBR1	
+
+For protein FBXO3: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	ACVR1	BMPR1B	SMAD2	SMAD3	SMURF1	TGFBR1	
+
+For protein FBXO34: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	BMPR1B	TGFBR1	
+
+For protein FBXW5: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	BMPR1B	TGFBR1	
+
+For protein FBXW7: 0 links inside the GROUP, and 15 links outside the GROUP:
+Links outside:	CEBPA	CUL1	FAM101A	MCL1	MYB	NOTCH4	NPM1	PIN1	PRKCA	PRKCB	PRKCD	PRKCE	PRKCZ	PTEN	SKP1A	
+
+For protein FCHO1: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	ACVR1	SMURF1	
+
+For protein FDFT1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	FAM101A	
+
+For protein FGD6: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	ACVR1	
+
+For protein FKBP1A: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	BMPR1B	MTOR	TGFBR1	
+
+For protein FKBP1B: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	BMPR1B	RYR2	TGFBR1	
+
+For protein FKBP4: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	ACVR1	SMURF2	
+
+For protein FLT1: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	CBL	CD2AP	LDLR	PLCG1	UBC	
+
+For protein FOS: 4 links inside the GROUP, and 18 links outside the GROUP:
+Links inside:	HHEX	JUN	JUND	NFE2L2	
+Links outside:	ATF4	ATF7	BARX2	CYLD	EEF1D	OPTN	PIK3R1	PSMC5	RIT2	SCHIP1	SIRT1	SMARCA2	SMARCB1	SMARCD1	SNAPC5	TRO	UBC	YY1	
+
+For protein FOXG1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	HDAC1	TLE1	TLE3	
+
+For protein GAR1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	NHP2L1	SMURF1	SMURF2	
+
+For protein GATA1: 1 links inside the GROUP, and 22 links outside the GROUP:
+Links inside:	RB1	
+Links outside:	ACF1	CHD4	CREB1	E2F2	GATA6	GFI1B	HDAC1	HDAC2	LDB1	MBD2	MBD3	MTA2	PIAS4	PPARA	RBBP4	RBBP7	RUNX1	SFPI1	SMARCA5	SUMO1	TAL1	ZFPM1	
+
+For protein GFAP: 2 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	HTT	POU5F1	
+Links outside:	MYO5A	NPHP4	UBC	YWHAZ	
+
+For protein GIT1: 1 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	PXN	
+Links outside:	ARHGEF6	ARHGEF7	SNX6	TGFB1I1	YWHAE	YWHAZ	
+
+For protein GIT2: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	DLG4	
+Links outside:	FOXP3	TGFBR1	YWHAE	
+
+For protein GMEB1: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	CIITA	RAG1	UBE2I	UBP1	ZDHHC6	ZFP111	
+
+For protein GMEB2: 1 links inside the GROUP, and 11 links outside the GROUP:
+Links inside:	NFKB1	
+Links outside:	AEBP1	E4F1	LHX2	MCM6	POLR1B	SP2	UBE2I	UBP1	VAX2	XBP1	ZFP277	
+
+For protein GNA13: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	CDH1	TGFBR1	
+
+For protein HDAC5: 1 links inside the GROUP, and 11 links outside the GROUP:
+Links inside:	NCOR2	
+Links outside:	ANKRA2	BAHD1	DNAJB6	GLI2	GNB1	MEF2A	MEF2C	MEF2D	MYOCD	RFXANK	UBC	
+
+For protein HDAC6: 3 links inside the GROUP, and 9 links outside the GROUP:
+Links inside:	MAPT	NFKB1	TUBA1A	
+Links outside:	GARS	HSP90AB1	PARK2	PLAA	RELA	TARDBP	UBC	USP47	VCP	
+
+For protein HDAC7: 1 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	NCOR2	
+Links outside:	DNAJB6	FOXP3	MITF	PPARD	SIN3A	
+
+For protein HDGF: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	POU5F1	
+Links outside:	SMAD4	
+
+For protein HDGFRP3: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	SMURF1	SMURF2	
+
+For protein HERPUD1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	NCSTN	PKD2	VCP	
+
+For protein HES1: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	HES6	
+Links outside:	CREBBP	SIRT1	STAT3	TLE1	
+
+For protein HES6: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	HES1	
+Links outside:	MYCN	SSBP3	TEF	TLE1	
+
+For protein HGS: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	IL6ST	
+Links outside:	CLTC	SNAP25	STAM2	UBC	
+
+For protein HHEX: 2 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	FOS	JUN	
+Links outside:	GTF2A1L	SOX10	SOX8	SP7	SRY	
+
+For protein HIC1: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	CTBP1	
+Links outside:	TCF4	
+
+For protein HIF1A: 1 links inside the GROUP, and 14 links outside the GROUP:
+Links inside:	EP300	
+Links outside:	ARNTL	ATF4	COPS5	EGLN1	EGLN2	EGLN3	FOXO3	NAA10	PER1	SMAD3	SUMO1	TLX3	TP53	VHL	
+
+For protein HIPK2: 2 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	CTBP2	PML	
+Links outside:	AXIN1	LEF1	MECP2	POU4F1	TRP53	UBE2I	
+
+For protein HIRA: 2 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	PAX3	POU5F1	
+Links outside:	CREB3L4	CREM	H3F3B	HIRIP3	PAX7	
+
+For protein HOXA9: 1 links inside the GROUP, and 12 links outside the GROUP:
+Links inside:	JUN	
+Links outside:	CREBBP	GTF2A1L	MEIS1	MEIS2	NFKBIA	NKX2-1	PAX6	PBX1	PBX3	PHF17	POLR2I	POU2F1	
+
+For protein HSPH1: 3 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	PAFAH1B3	PGK1	TUBA1A	
+Links outside:	ADD1	CFTR	IQCB1	SOD1	UBA1	
+
+For protein HTT: 5 links inside the GROUP, and 147 links outside the GROUP:
+Links inside:	CUL2	DDB1	GFAP	LUC7L2	RAC1	
+Links outside:	ACADL	ALDOA	ALDOC	ALPL	AMPD1	AOC3	ASPH	ATP5D	ATP5O	ATP6V0E	BAG1	BASP1	BCAP31	BCL11B	BTRC	CA4	CACNA2D1	CCT6A	CCT8	CD36	CD59	CDH13	CENPV	CHCHD2	CHCHD3	CKM	CLTC	CMC1	CNP	CNTN1	COX2	COX3	COX5A	COX5B	COX6A1	COX6B1	COX6C	CPT1B	CREBBP	CTNNB1	CYC1	DCTN1	DIRAS2	DLAT	DLD	DLST	DNAJA1	DNAJB1	DPYSL2	DYNC1H1	EEF1D	EIF2C2	ENO1	ENO3	EPB41	EPB41L1	EPM2A	ETFB	EZH2	FBN2	FOXP1	GNAO1	GNAZ	GNB1	GNB2L1	GPM6A	HADHA	HAP1	HBB-B1	HNRNPC	HSD17B10	HSP90AB1	HSPA1B	HSPA8	IMMT	ITPR1	JPH2	LDHA	LDHAL6A	LDHB	LSAMP	MDH1	MOG	MTX1	NDUFA13	NDUFA8	NDUFA9	NDUFB10	NDUFB9	NDUFS1	NDUFS3	NDUFS5	NDUFV2	NEGR1	NHLRC1	NPTN	NTM	NUB1	OPCML	PACSIN1	PHB2	PKM2	PLIN4	PLP1	PRNP	PSMC2	PTGES3	PTRF	RAB3D	REST	SEPT7	SFXN3	SIN3A	SIRPA	SLC1A2	SLC25A11	SLC25A12	SLC25A3	SLC6A1	SNAP25	SPAG1	SPNA2	SQSTM1	SRP9	STIP1	STX1A	STX1B	STXBP1	SUZ12	SYN1	SYP	SYT1	SYT2	SYVN1	THY1	TOLLIP	TPM1	TPP1	UBC	UQCRC1	UQCRC2	UQCRH	USP9X	VDAC1	VDAC2	VDAC3	YWHAG	
+
+For protein ID3: 1 links inside the GROUP, and 9 links outside the GROUP:
+Links inside:	ID4	
+Links outside:	COPS5	COPS6	EMX1	MYOD1	NPHP4	TCF12	TCF3	TCF4	TCF7L1	
+
+For protein ID4: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	ID3	
+Links outside:	RUNX1T1	
+
+For protein IFRD1: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	SAP30	
+Links outside:	HDAC1	HDAC4	MEF2C	SIN3B	
+
+For protein IGBP1: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	MID2	
+Links outside:	CCT3	MID1	PPP2CA	PPP2CB	
+
+For protein IGF1R: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	GRB10	MDM2	SLC23A3	SNX9	UBC	
+
+For protein IGKC: 1 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	RRP1B	
+
+For protein IGKV2-40: 1 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	RRP1B	
+
+For protein IGSF21: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TMSB4X	
+
+For protein IK: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	FOXP3	LMNA	SUPT5H	
+
+For protein IKBKB: 2 links inside the GROUP, and 16 links outside the GROUP:
+Links inside:	IKBKG	RBCK1	
+Links outside:	ACVR1	BTRC	CD40	CHUK	CITED2	NFKBIA	NFKBIB	NKX3-2	OPTN	REG1	RNF31	SASH1	TGFBR1	TNFRSF1A	UBC	UL37	
+
+For protein IKBKG: 5 links inside the GROUP, and 29 links outside the GROUP:
+Links inside:	IKBKB	MAP3K1	MAP3K7	NCOA3	RBCK1	
+Links outside:	CD40	CHUK	CYLD	GSK3B	HSPA1B	MAML1	NFE2	NFKBIA	NFKBIB	NFKBIZ	NKX3-2	NLRX1	RIPK1	RNF31	SENP6	SHARPIN	SUMO2	SUMO3	TCF3	TLR4	TNFAIP3	TNFRSF1A	TNIP1	TRAF2	TRAF3IP2	TRAF6	TSG101	UBC	UBE2N	
+
+For protein IKZF1: 3 links inside the GROUP, and 10 links outside the GROUP:
+Links inside:	CTBP1	CTBP2	IKZF3	
+Links outside:	CHD3	FOXP3	HDAC1	HDAC2	SIN3A	SIN3B	SMARCA2	SMARCA4	SMARCC1	SMARCD3	
+
+For protein IKZF3: 1 links inside the GROUP, and 2 links outside the GROUP:
+Links inside:	IKZF1	
+Links outside:	CHD3	FOXP3	
+
+For protein IKZF4: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	CTBP1	
+Links outside:	FOXP3	
+
+For protein IL1R2: 1 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	IL1RAP	
+
+For protein IL1RAP: 2 links inside the GROUP, and 2 links outside the GROUP:
+Links inside:	IL1R2	MYD88	
+Links outside:	IL1R1	IRAK1	
+
+For protein IL6ST: 1 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	HGS	
+Links outside:	CBL	CNTF	CTF2	LIFR	PTPN11	UBC	
+
+For protein ILF3: 2 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	POU5F1	RRP1B	
+Links outside:	DHX9	MAPK13	YBX1	
+
+For protein ILKAP: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	ACVR1	BMPR1B	SMAD4	TGFBR1	
+
+For protein INADL: 3 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	DLG4	KCNJ10	KCNJ15	
+Links outside:	GRIN2A	GRIN2B	GRIN2C	GRIN2D	
+
+For protein ING2: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	H3F3A	SMURF1	SMURF2	
+
+For protein ING4: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	RARB	TRP53	
+
+For protein ITSN1: 4 links inside the GROUP, and 25 links outside the GROUP:
+Links inside:	BECN1	EPN2	EPS15	EPS15L1	
+Links outside:	AGFG1	AGFG2	AMOTL1	ARHGAP31	CBL	DAB2	DLGAP2	DNM1	EPN1	FCHO2	GZMB	HMG20A	KRT1	KRT71	KRT79	MBP	PICALM	PIK3C2B	PLVAP	PPL	SPRY2	SWAP70	SYNC	TIAM1	TRP53	
+
+For protein JAK1: 1 links inside the GROUP, and 9 links outside the GROUP:
+Links inside:	DLG4	
+Links outside:	ABL1	CABYR	CSF2RB2	FERT2	IL3RA	PRKCZ	SOCS1	STAT1	STAT5A	
+
+For protein JAK2: 2 links inside the GROUP, and 25 links outside the GROUP:
+Links inside:	EGFR	KIT	
+Links outside:	CAV1	CDKN1B	CRLF2	CSF2RB2	DNAJA3	EIF2AK2	ELF1	IFNGR1	IL12RB2	IL3RA	MPL	PIK3R1	PKD1	PRLR	PTPN1	S1PR1	SH2B1	SOCS1	SOCS3	SRC	STAT1	STAT3	STAT5A	STAT5B	UBC	
+
+For protein JUB: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	ACVR1	
+
+For protein JUN: 5 links inside the GROUP, and 33 links outside the GROUP:
+Links inside:	EN1	FOS	HHEX	HOXA9	MAP3K1	
+Links outside:	APC	ATF3	ATF4	BAG1	BARX2	BRCA1	COPS5	CPEB1	CREB1	CTNNB1	CYLD	ESR1	HDAC3	HOXC8	ITCH	MAFB	MAPK8	NUMB	RELA	SENP2	SIRT1	SMAD3	SMARCA2	SMARCB1	SMARCD1	SNAPC5	SOX10	SOX8	SP1	SRY	STAT3	TCF4	UBC	
+
+For protein JUNB: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	BATF	BATF3	ITCH	SMARCD1	UBC	
+
+For protein JUND: 2 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	FOS	NFE2L2	
+Links outside:	BATF3	FAM175B	MEN1	
+
+For protein KAT2A: 2 links inside the GROUP, and 7 links outside the GROUP:
+Links inside:	EP300	MYC	
+Links outside:	CREBBP	CSRP2BP	H3.1	H4	MBIP	NOTCH1	WDR5	
+
+For protein KAT2B: 2 links inside the GROUP, and 12 links outside the GROUP:
+Links inside:	EP300	SMAD1	
+Links outside:	CLOCK	CREBBP	ESRRA	GRIP1	HNF1B	MYOD1	N	NFE2	NOTCH1	RARA	TAL1	USF1	
+
+For protein KATNB1: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	DYNC1H1	KATNA1	NDEL1	PAFAH1B1	TGFBR1	
+
+For protein KCNJ10: 1 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	INADL	
+
+For protein KCNJ15: 1 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	INADL	
+
+For protein KEAP1: 2 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	CUL3	NFE2L2	
+Links outside:	ATG7	BPTF	HSP90AA1	PTMA	RBX1	SQSTM1	UBC	ZBTB16	
+
+For protein KHDRBS1: 1 links inside the GROUP, and 11 links outside the GROUP:
+Links inside:	RBM39	
+Links outside:	CD40	FYN	GRAP2	GTF2E2	LYN	NCOA5	RIPK1	SH3KBP1	SRC	TRAF2	YES1	
+
+For protein KIAA1377: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SUPT5H	
+
+For protein KIF1A: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	DLG4	
+Links outside:	APP	
+
+For protein KIN: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	CDC42	
+Links outside:	BUD13	RHO1	RHOA	
+
+For protein KIT: 1 links inside the GROUP, and 18 links outside the GROUP:
+Links inside:	JAK2	
+Links outside:	CBL	FES	FIZ1	GRAP2	GRB2	KITL	MATK	PIK3CA	PIK3R1	PIK3R2	PLK1	SH2B1	SH2B2	SOCS1	SOCS6	STAP1	UBC	VAV1	
+
+For protein KLF11: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	MAPK1	
+Links outside:	SIN3A	
+
+For protein KLHL1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	BMPR1B	CACNA1H	TGFBR1	
+
+For protein KLK8: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	UBC	
+
+For protein LRRC59: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	PLCB1	
+
+For protein LSP1: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	BMPR2	MAPKAPK2	
+
+For protein LUC7L2: 2 links inside the GROUP, and 7 links outside the GROUP:
+Links inside:	HTT	RRP1B	
+Links outside:	DSK2	NBR1	NUB1	PSMD4	SQSTM1	UBQLN1	VPS9	
+
+For protein LUC7L3: 1 links inside the GROUP, and 7 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	DSK2	NUB1	PSMD4	RAD23B	SQSTM1	UBQLN1	VPS9	
+
+For protein LY9: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SH2D1B1	
+
+For protein LYAR: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	PLCB1	
+
+For protein LZTR1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	BMPR1B	
+
+For protein MAD1L1: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	CDK1	HDAC1	MAD2L1	MAD2L1BP	SIN3A	
+
+For protein MAFK: 1 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	NFE2L2	
+Links outside:	ASH2L	BACH1	MLL2	NFE2	NR4A3	
+
+For protein MAGED1: 2 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	PRKAA1	TUBA1A	
+Links outside:	AATF	NGFR	ROR1	ROR2	SLC6A4	
+
+For protein MAGI1: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	NET1	
+Links outside:	AMOTL1	AMOTL2	IGSF5	
+
+For protein MAP1S: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	RASSF1	
+
+For protein MAP2K3: 1 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	MAPK14	
+Links outside:	BMPR1B	SMAD2	SMAD3	SMAD4	SMURF1	TGFBR1	
+
+For protein MAP2K6: 2 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	MAP3K7	MAPK14	
+
+For protein MAP2K7: 2 links inside the GROUP, and 7 links outside the GROUP:
+Links inside:	MAP3K1	MAPK10	
+Links outside:	BCL10	CD40	CFLAR	DUSP22	FOXP3	MAPK8IP3	PRKCQ	
+
+For protein MAP3K1: 3 links inside the GROUP, and 12 links outside the GROUP:
+Links inside:	IKBKG	JUN	MAP2K7	
+Links outside:	AXIN1	BIRC2	BIRC3	CD40	ECSIT	MAP2K1	MAP2K4	MAPK8	TRAF2	TRAF3	TRAF6	UBE2N	
+
+For protein MAP3K14: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TRAF6	
+
+For protein MAP3K5: 1 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	RB1CC1	
+Links outside:	DAXX	GSTM1	MAPK8IP3	MBP	MELK	PARK7	SPAG9	TRAF2	
+
+For protein MAP3K7: 3 links inside the GROUP, and 29 links outside the GROUP:
+Links inside:	IKBKG	MAP2K6	MYD88	
+Links outside:	BCL10	BIRC2	BIRC3	CARD11	CD40	IRAK1	MALT1	MAP2K4	MAPK8IP1	MIB2	PEBP1	PELI2	SASH1	SKIL	SMURF1	TAB1	TAB2	TAB3	TLR4	TMEM115	TNFRSF1A	TNIP3	TRAF2	TRAF3IP2	TRAF6	TRIM30A	UBE2N	UL37	VRK2	
+
+For protein MAPK1: 5 links inside the GROUP, and 29 links outside the GROUP:
+Links inside:	DLG4	EIF4EBP1	KLF11	PXN	RPS6KB1	
+Links outside:	ATF2	BCL2L1	BLNK	CAPN2	CRK	CTTN	DUSP2	DUSP3	DUSP9	EIF4EBP2	ELK1	FERT2	GRIN1	GRIN2B	ITGB5	KSR1	MBP	MDK	METAP2	PCYT1A	PEA15A	PEA15B	RPS6KA3	SQSTM1	STAT1	TOP2A	TP53	VIF	VRK3	
+
+For protein MAPK10: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	MAP2K7	
+Links outside:	MAP2K4	MAPKBP1	RARA	TRP53	
+
+For protein MAPK14: 5 links inside the GROUP, and 15 links outside the GROUP:
+Links inside:	DLG4	EGFR	MAP2K3	MAP2K6	RPS6KB1	
+Links outside:	ATF2	CEBPB	DLG1	DUSP2	DUSP4	DUSP9	FAM48A	GADD45A	MAFA	MAPKAPK2	NBR1	SHC1	SPAG9	STK39	VAV1	
+
+For protein MAPK9: 1 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	RPS6KB1	
+Links outside:	ATF2	DUSP2	MAPKBP1	RARA	RARG	TRP53	
+
+For protein MAPRE2: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	APC	FOXP3	
+
+For protein MAPT: 2 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	HDAC6	TUBA1A	
+Links outside:	BAG1	EFHD2	HSPA8	PPP1CA	STUB1	SYVN1	UBC	VCP	
+
+For protein MAST1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	DYNLL1	
+
+For protein MID2: 1 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	IGBP1	
+
+For protein MKI67: 1 links inside the GROUP, and 16 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	HAUS8	KPNA1	KPNA2	KPNA3	KPNA4	KPNA6	KPNB1	MKI67IP	MRTO4	NONO	NOP2	NUP153	NUP50	PPP1CC	RSL1D1	SFPQ	
+
+For protein MKL1: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	LHX2	SRF	
+
+For protein MKL2: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	NPHP4	SRF	
+
+For protein MXD1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	MAX	SIN3A	SIN3B	
+
+For protein MYBL2: 1 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	CDK2	
+Links outside:	AW146020	CCNA1	CCND1	IKZF2	LIN54	TFCP2L1	
+
+For protein MYC: 1 links inside the GROUP, and 15 links outside the GROUP:
+Links inside:	KAT2A	
+Links outside:	APC	BCL2	CDKN2A	CDR2	CRK	EIF4E	HUWE1	MAX	PFDN5	PRDX1	SMARCA4	SMARCB1	TRIM32	TRRAP	TSIX	
+
+For protein MYD88: 3 links inside the GROUP, and 27 links outside the GROUP:
+Links inside:	IL1RAP	MAP3K7	TUBB5	
+Links outside:	4732456N10RIK	APC	ARL1	BIRC3	CBLB	CITED2	FLII	HSPA5	HSPA8	IL1R1	IRAK1	IRAK4	LRRFIP1	LRRFIP2	PRMT5	PRPF31	RNF219	RNF41	STK38	TIRAP	TLR4	TMOD3	TRAF3	TRAF6	TUBA1C	TUBB4B	UBC	
+
+For protein MYO10: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	DYNLL1	
+
+For protein MYO3A: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein NBN: 0 links inside the GROUP, and 7 links outside the GROUP:
+Links outside:	BRCA1	H2AFX	MDC1	MDM2	MRE11A	PCNA	TRP53BP1	
+
+For protein NCK1: 0 links inside the GROUP, and 8 links outside the GROUP:
+Links outside:	ABL1	CBL	DOK1	DOK2	MBP	MTA1	MTA3	TNK2	
+
+For protein NCL: 3 links inside the GROUP, and 13 links outside the GROUP:
+Links inside:	CUL3	POU5F1	RRP1B	
+Links outside:	DSK2	EIF3I	MAPK13	NBR1	NPM1	NUB1	PSMD4	SQSTM1	TCF3	TPT1	UBQLN1	VPS9	YWHAE	
+
+For protein NCOA1: 3 links inside the GROUP, and 12 links outside the GROUP:
+Links inside:	EP300	NCOA3	NRIP1	
+Links outside:	AR	CARM1	MYOD1	NR1I2	NR1I3	NR3C1	NR5A1	RARA	SFN	SMARCE1	THRB	VDR	
+
+For protein NCOA2: 1 links inside the GROUP, and 11 links outside the GROUP:
+Links inside:	NRIP1	
+Links outside:	AR	CARM1	ESR1	MEF2C	MYOD1	PGR	PIAS3	RXRA	SMARCE1	SNW1	VDR	
+
+For protein NCOA3: 6 links inside the GROUP, and 31 links outside the GROUP:
+Links inside:	IKBKG	NCOA1	NRIP1	PRDX5	PTPN6	SAP18	
+Links outside:	AW146020	CARM1	CEBPA	CEBPD	CREBBP	EHMT2	ERCC8	ESRRB	GTF2E1	HNF4G	LASS2	LGALS3	MEF2C	MYOD1	NR1I2	NR5A2	PER1	PIAS1	POLR3F	RNF19A	RORB	SETDB1	SIRT1	SIRT2	SUFU	TBX4	TIA1	TIAL1	TLE6	TRPS1	ZFP219	
+
+For protein NCOA6: 1 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	RBM39	
+Links outside:	MLL3	NR1I3	PCMT1	RNF2	SRF	TRP53BP1	
+
+For protein NCOR1: 1 links inside the GROUP, and 22 links outside the GROUP:
+Links inside:	NRIP1	
+Links outside:	DDX20	DZIP3	GPS2	HDAC3	NR1H3	NR1I3	NR6A1	PATZ1	PIAS1	PIK3R1	POU1F1	RARA	RNF41	SIAH2	SIN3A	SIRT1	TBL1X	TBL1XR1	THRA	THRB	UBE2I	ZBTB7C	
+
+For protein NCOR2: 3 links inside the GROUP, and 11 links outside the GROUP:
+Links inside:	HDAC5	HDAC7	POU5F1	
+Links outside:	DDX20	HDAC3	HDAC4	NR1I2	NR1I3	NR2F1	NR2F2	NR6A1	PPARD	PPARG	SIRT1	
+
+For protein NDN: 3 links inside the GROUP, and 69 links outside the GROUP:
+Links inside:	CDH2	CTBP2	TUBA1A	
+Links outside:	2610301B20RIK	ANGPTL2	BBS4	CABP1	CACYBP	CAMK1	CCAR1	CCM2	CDH4	CDH5	CHMP4B	CHMP5	COPB2	DAZAP2	DCBLD2	DCTN1	DDX24	DNER	E2F1	E2F4	EID1	EPAS1	FEZ1	FEZ2	HAP1	HCFC1	HUWE1	IFFO1	IFFO2	IFT57	ITGB5	KIF21B	LAMB1	MCM10	MDM2	MED22	MIER2	MPND	MYL9	NCAPH	NCOA4	NEFL	NFX1	NGFR	NIN	NTRK1	NUCB1	OTUB1	PCDH18	PEX19	POGZ	PPFIA3	RCBTB2	RNF114	RPL28	RTN4	RUFY2	SOBP	STRN4	TADA3	TBC1D9	TBRG1	TDP2	THOC5	TTC4	TYW1	UBC	UQCRC1	WWTR1	
+
+For protein NEDD1: 2 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	PRKAA1	RRP1B	
+Links outside:	HAUS4	MZT1	MZT2	SET	TUBGCP3	
+
+For protein NEDD4: 3 links inside the GROUP, and 38 links outside the GROUP:
+Links inside:	POU5F1	SCNN1B	SCNN1G	
+Links outside:	ADRBK1	BEAN1	CBL	DLG3	EIF2B5	GRB10	GRIN2A	GRIN2D	HUNK	LITAF	N4BP3	NDFIP1	NFE2	PMEPA1	POLR2A	PRRG2	PTEN	RAP2A	RNF11	SCN10A	SCN1A	SCN2A1	SCN3A	SCN5A	SCN8A	SCN9A	SCNN1A	SFTPC	SNCA	TNIK	UBC	UBE4B	USP2	VIF	WBP1	WBP2	YWHAB	YWHAE	
+
+For protein NEK6: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	SMAD4	SMURF2	TGFBR1	
+
+For protein NEK8: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	INVS	TGFBR1	
+
+For protein NET1: 2 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	CDC42	MAGI1	
+Links outside:	RHO1	RHOA	SH3KBP1	
+
+For protein NFE2L2: 6 links inside the GROUP, and 19 links outside the GROUP:
+Links inside:	CUL3	FOS	JUND	KEAP1	MAFK	NRF1	
+Links outside:	ATF4	ATG7	BTRC	CDKN1A	CLTC	CREBBP	GSK3B	LASS2	MAF	MAFG	PPARG	PTMA	RAD50	SMARCC2	SMC4	TRIM28	TRIM33	UBC	UBE2E1	
+
+For protein NFKB1: 3 links inside the GROUP, and 10 links outside the GROUP:
+Links inside:	GMEB2	HDAC6	NFKB2	
+Links outside:	E2F1	FEM1A	HDAC1	MAP3K8	NFKBIA	NFKBIZ	PIAS2	REL	RELB	ZFP276	
+
+For protein NFKB2: 1 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	NFKB1	
+Links outside:	BCL3	HDAC1	NANOG	NFKBIZ	RELA	RELB	SIN3A	SUMO1	
+
+For protein NRF1: 1 links inside the GROUP, and 2 links outside the GROUP:
+Links inside:	NFE2L2	
+Links outside:	DYNLL1	DYNLT1B	
+
+For protein NRIP1: 5 links inside the GROUP, and 7 links outside the GROUP:
+Links inside:	CTBP1	NCOA1	NCOA2	NCOA3	NCOR1	
+Links outside:	ESRRB	GRIP1	HDAC1	HDAC3	NR2C1	RARA	RXRB	
+
+For protein PAFAH1B3: 1 links inside the GROUP, and 2 links outside the GROUP:
+Links inside:	HSPH1	
+Links outside:	PAFAH1B1	VLDLR	
+
+For protein PAK1IP1: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	AGRN	SMURF1	
+
+For protein PAK3: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	CDC42	
+Links outside:	ARHGEF7	MYO6	RHOQ	
+
+For protein PARD3: 1 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	PARD6A	
+Links outside:	F11R	PRKCZ	SPTLC1	VHL	
+
+For protein PARD6A: 1 links inside the GROUP, and 9 links outside the GROUP:
+Links inside:	PARD3	
+Links outside:	DVL2	PKLR	PRKCZ	SMURF1	SMURF2	SRSF1	TGFBR1	UBC	VHL	
+
+For protein PARP1: 3 links inside the GROUP, and 17 links outside the GROUP:
+Links inside:	PARP2	POU5F1	RRP1B	
+Links outside:	AURKB	BRCA1	CENPB	DSK2	E2F1	L3MBTL2	MAPK13	NANOG	NBR1	NPM1	NUB1	PSMD4	RAD23B	SQSTM1	UBC	UBQLN1	VPS9	
+
+For protein PARP2: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	PARP1	
+Links outside:	NPM1	
+
+For protein PAX3: 1 links inside the GROUP, and 20 links outside the GROUP:
+Links inside:	HIRA	
+Links outside:	ALX4	CBX3	CBX5	CIB1	CTNNB1	LEF1	MDM2	MEOX1	MEOX2	MITF	RAD23B	SIRT1	SOX10	SOX8	SRY	TLE4	TRIM28	TRP53	UBC	WWTR1	
+
+For protein PAX5: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	DAXX	KPNA2	LEF1	MYB	
+
+For protein PGK1: 2 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	CSNK1E	HSPH1	
+Links outside:	AI837181	CDK1	INVS	MAPK13	
+
+For protein PML: 2 links inside the GROUP, and 22 links outside the GROUP:
+Links inside:	HIPK2	POU5F1	
+Links outside:	AGAP3	AXIN1	FAS	GTF2E1	GTF2E2	HDAC2	MED16	MED17	MTOR	NANOG	POLR2E	RUNX1	SENP2	SFPI1	SKIL	SUMO1	SUMO2	TP53	UBC	UBE3A	ZBTB16	ZSCAN21	
+
+For protein PMPCA: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	DLG4	
+Links outside:	BMPR2	
+
+For protein PNO1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SUPT5H	
+
+For protein POLB: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	PCNA	TFCP2L1	
+
+For protein POLH: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	DYNLL1	PCNA	REV1	SHPRH	
+
+For protein POLK: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	MAD2L2	PCNA	REV1	SHPRH	UBB	UBC	
+
+For protein POU5F1: 19 links inside the GROUP, and 278 links outside the GROUP:
+Links inside:	CDC20	CTBP1	CTBP2	DDB1	DDX47	GFAP	HDGF	HIRA	ILF3	NCL	NCOR2	NEDD4	PARP1	PML	RBPJ	SAE1	SALL1	SAP30BP	XRCC5	
+Links outside:	0610010K14RIK	2210018M11RIK	2810474O19RIK	ACIN1	ACTL6A	ACTR3	AHNAK	AKAP8	AMOTL2	ANKRD17	ANXA2	AP2M1	APLP2	ARID1A	ARID3B	ASF1A	ASH2L	ATF2	ATP1A1	ATXN10	BPTF	BRD3	BRD4	BRWD1	BZW2	CABIN1	CAD	CALU	CCT2	CCT3	CCT4	CCT5	CCT7	CDC73	CDK1	CDK3-PS	CDX2	CHD1	CHD3	CHD4	CHD5	CKAP5	CMAS	CNN2	CNN3	CNOT1	COL18A1	COPB1	CPSF1	CPSF2	CPSF6	CREB1	CSNK2A1	CTNNB1	CUBN	CUL4B	DBT	DDX4	DHX9	DNAJA1	DNAJA2	DNAJC13	DNMT3A	DNMT3L	DPF2	DYNC1H1	EEF2	EHD4	ELAVL1	EMD	EP400	ESRRB	ESRRG	ETF1	EWSR1	FEN1	FLNA	FLNB	FOXP4	FRG1	FUBP3	GATAD2A	GATAD2B	GCN1L1	GIGYF2	GLI2	GNB1	GTF2E1	GTF2I	HADHA	HCFC1	HDAC1	HDAC2	HELLS	HELZ	HIST1H1C	HIST1H3E	HIST1H4B	HIST3H2BB-PS	HK2	HNRNPAB	HNRNPL	HNRNPU	HSPD1	HSPG2	IDH3B	IDH3G	IFI202B	ILF2	ILK	INO80	JMJD1C	KDM1A	KIF11	KIF4	KLF4	KLF5	KPNA2	KPNA3	L1TD1	L3MBTL2	LAMA1	LAMB1	LAMC1	LEO1	LIG3	LIMS1	LRRC40	LRRC47	MATR3	MBD3	MCM5	MDC1	MFAP1B	MGA	MITF	MLLT10	MLLT4	MSH2	MSH6	MTA1	MTA2	MTA3	MYST2	NACA	NACC1	NANOG	NFRKB	NFYC	NID2	NONO	NR0B1	NUDC	NUMA1	NUP93	OGT	ORC2	OTX2	P4HA1	PAF1	PAK4	PBRM1	PCBP2	PHC1	PHF17	PHF3	PLK1	PPP1CA	PPP1CB	PPP1CC	PPP1R10	PPP2R1A	PRPF4B	PRRC2B	PSMB6	PSPC1	PTBP2	RAD21	RAI14	RBBP5	RBBP7	RBM14	RBM17	RCOR2	RFC1	RFC4	RFC5	RFX2	RIF1	RNF2	RPA1	RPA3	RPN1	RPN2	RTN4	RYBP	SALL3	SALL4	SAP130	SCAF8	SEPT2	SERPINH1	SETDB1	SF3A2	SF3A3	SHOC2	SIRT6	SMARCA2	SMARCA4	SMARCA5	SMARCB1	SMARCC1	SMARCC2	SMARCE1	SMC1A	SMCHD1	SND1	SOX15	SOX2	SP1	SRP68	SSRP1	SUDS3	SUMO1	SUPT16H	SYMPK	TAF1	TAOK1	TBP	TCERG1	TCOF1	TCP1	TDH	TET1	TFAP2A	TFCP2L1	TFE3	TFEB	TMPO	TOP2A	TOP2B	TOX2	TOX4	TPR	TRIM24	TRIM33	TRP53BP1	TRRAP	TTF2	UBA2	UBAP2L	UBE2I	UBN2	UBP1	UPF1	VRK1	WAPAL	WARS	WDR33	WDR5	WWP2	XRCC1	XRCC6	ZBTB10	ZBTB2	ZBTB43	ZCCHC11	ZCCHC8	ZFHX3	ZFP143	ZFP217	ZFP219	ZFP42	ZFP462	ZFP513	ZIC2	ZMYM2	ZSCAN4B	
+
+For protein PPP6C: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein PRDX5: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	NCOA3	
+Links outside:	SUFU	
+
+For protein PREB: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	SSBP4	TGFBR1	TRIP13	
+
+For protein PRKAA1: 2 links inside the GROUP, and 27 links outside the GROUP:
+Links inside:	MAGED1	NEDD1	
+Links outside:	ABI1	APRT	ARHGAP22	BC031781	BHLHE40	CHERP	CPE	EMILIN1	FAM54A	GRN	HSPB1	KIF1C	LZTS2	MARK4	NAB2	NRBF2	PRKAB1	PRKAG1	PRKAG2	RC3H1	SORBS1	TFPT	THAP7	TRIP6	UBC	WDR62	XRN2	
+
+For protein PRKAR1A: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	RRP1B	
+Links outside:	AKAP7	
+
+For protein PTPN12: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SHC1	
+
+For protein PTPN6: 2 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	CD3E	NCOA3	
+Links outside:	MBP	NR5A2	SIGLECE	TCRB	VAV1	
+
+For protein PTPRF: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	CTNNB1	FYN	
+
+For protein PURA: 1 links inside the GROUP, and 13 links outside the GROUP:
+Links inside:	CDK2	
+Links outside:	CCNA2	CCNB1	CCND1	CCNE1	CCNH	CDK1	CDK4	CDK5	E2F1	FMR1	HIST1H1A	RARA	YWHAE	
+
+For protein PWP1: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	EWSR1	SMURF1	SSBP3	
+
+For protein PXN: 2 links inside the GROUP, and 16 links outside the GROUP:
+Links inside:	GIT1	MAPK1	
+Links outside:	ABL1	ARHGEF7	BCL2	BCL2L1	BCL2L2	CBL	CRKL	LIMK1	LIMK2	MDK	PAK1	PTK2	REPS2	SORBS2	SRC	ZHX2	
+
+For protein RAB13: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	CCDC64B	SMAD4	SMURF2	TGFBR1	
+
+For protein RAB14: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SMURF2	
+
+For protein RAB17: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	ACVR1	SMURF2	
+
+For protein RAB22A: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	RAD51	SMURF2	
+
+For protein RAB2B: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SMAD4	
+
+For protein RAB33B: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	ACVR1	ATG12	ATG16L1	ATG5	CALM1	TGFBR1	
+
+For protein RAB34: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	SMAD2	SMAD4	TGFBR1	
+
+For protein RAB38: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	BMPR1B	SMAD2	SMAD3	SMAD4	TGFBR1	
+
+For protein RAB3B: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	ACVR1	CALM1	RPH3AL	SMAD4	TGFBR1	
+
+For protein RAB6B: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	ACVR1	BMPR1B	CALM1	CCDC64	LMNA	TGFBR1	
+
+For protein RABGGTA: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	BMPR2	
+
+For protein RAC1: 2 links inside the GROUP, and 13 links outside the GROUP:
+Links inside:	BCR	HTT	
+Links outside:	ABR	ARHGAP32	CIT	D930014E17RIK	GRIN1	GRIN2B	HDAC3	HOMER2	NPHS1	PAK1	PTPLAD1	SH3BP2	SMURF2	
+
+For protein RB1: 2 links inside the GROUP, and 35 links outside the GROUP:
+Links inside:	CDK2	GATA1	
+Links outside:	CCNA2	CCND1	CDK4	CDK6	CDK9	CDKN1B	CEBPA	CEBPB	CEBPD	CSNK2A1	E2F1	E2F2	HDAC1	HMGA1	HMGA2	ID2	JARID2	MORF4L1	MRFAP1	NEUROD1	PAX2	PPP1CA	PPP1CC	PRKCB	PRMT2	PSMD10	RBAK	RUNX2	SIN3A	SMARCA4	SUV420H1	SUV420H2	TP53BP1	UBTF	ZFPM1	
+
+For protein RB1CC1: 1 links inside the GROUP, and 2 links outside the GROUP:
+Links inside:	MAP3K5	
+Links outside:	STMN1	TRAF2	
+
+For protein RBBP8: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	LMO2	ZFPM1	
+
+For protein RBCK1: 2 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	IKBKB	IKBKG	
+Links outside:	CHUK	EYA1	HOXA1	RNF31	SHARPIN	SOCS6	UBE2L3	UBE2L6	
+
+For protein RBM39: 2 links inside the GROUP, and 7 links outside the GROUP:
+Links inside:	KHDRBS1	NCOA6	
+Links outside:	CITED4	ESR2	HOXA2	RNF2	RSRC1	SERTAD1	SF3A1	
+
+For protein RBPJ: 1 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	POU5F1	
+Links outside:	NOTCH1	NOTCH2	NOTCH3	NOTCH4	PTF1A	SMARCD3	SUFU	TNFRSF11A	
+
+For protein RGS19: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein RGS3: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	SMAD2	SMAD3	YWHAE	YWHAQ	
+
+For protein RPS6KB1: 4 links inside the GROUP, and 6 links outside the GROUP:
+Links inside:	MAPK1	MAPK14	MAPK9	RPTOR	
+Links outside:	IRS1	MAPK3	MAPK8	MLST8	MTOR	XPO1	
+
+For protein RPTOR: 2 links inside the GROUP, and 4 links outside the GROUP:
+Links inside:	DDB1	RPS6KB1	
+Links outside:	DTL	MLST8	MTOR	RHEB	
+
+For protein RRAS2: 0 links inside the GROUP, and 7 links outside the GROUP:
+Links outside:	ACVR1	BMPR1B	SMAD3	SMAD4	SMURF2	TRIM69	TUBB4B	
+
+For protein RRH: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein RRP1B: 16 links inside the GROUP, and 27 links outside the GROUP:
+Links inside:	CDCA8	CSDA	DDX21	DDX47	IGKC	IGKV2-40	ILF3	LRRC59	LUC7L2	LUC7L3	LYAR	MKI67	NCL	NEDD1	PARP1	PRKAR1A	
+Links outside:	C1QBP	CUBN	DNAJC9	ERH	H1FX	HNRNPA1	HNRNPUL1	ITGAD	LRRC3DN	NPM1	PPP1CA	PRPF4B	RALGAPA1	RCN1	RPL10A	RPL4	RPL5	RPLP0	RSL1D1	SRP14	SRSF1	SRSF6	STAU1	TAB1	THOC4	TRIM28	YY2	
+
+For protein S100A8: 1 links inside the GROUP, and 0 links outside the GROUP:
+Links inside:	TUBA1A	
+
+For protein SAE1: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	POU5F1	
+Links outside:	RANGAP1	SOX2	USP2	
+
+For protein SALL1: 1 links inside the GROUP, and 9 links outside the GROUP:
+Links inside:	POU5F1	
+Links outside:	ESRRB	HDAC1	HDAC2	NACC1	NANOG	NR0B1	SALL4	TFCP2L1	WHSC1	
+
+For protein SAMD8: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein SAP18: 1 links inside the GROUP, and 8 links outside the GROUP:
+Links inside:	NCOA3	
+Links outside:	FOXP3	HIST1H2AI	PIAS1	PNN	RNPS1	SHH	SIN3A	SUFU	
+
+For protein SAP30: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	IFRD1	
+Links outside:	SAMSN1	TET1	TET2	
+
+For protein SAP30BP: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	POU5F1	
+Links outside:	SUPT5H	
+
+For protein SCH: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	GRAP2	
+
+For protein SCNN1B: 1 links inside the GROUP, and 3 links outside the GROUP:
+Links inside:	NEDD4	
+Links outside:	ADRBK1	NEDD4L	UBC	
+
+For protein SCNN1G: 1 links inside the GROUP, and 2 links outside the GROUP:
+Links inside:	NEDD4	
+Links outside:	NEDD4L	UBC	
+
+For protein SEC7: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	ITCH	
+
+For protein SLAMF1: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	SH2D1B1	SH2D1B2	
+
+For protein SLC2A1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	UBE2I	
+
+For protein SLC2A4: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	DAXX	FLOT1	LNPEP	MAPK8	UBE2I	
+
+For protein SLC6A3: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	SNCA	STX1A	TGFB1I1	
+
+For protein SMAD1: 1 links inside the GROUP, and 33 links outside the GROUP:
+Links inside:	KAT2B	
+Links outside:	ARID1A	BACH1	BTG2	COL3A1	COL5A1	DDX5	EIF4ENIF1	ERCC3	GATA4	GJB6	HOXA13	HOXD13	KLF10	MECOM	MNOTCH	MXI1	MYOD1	PEX6	PRDM16	PSMC3	RUNX2	SF3B2	SIP1	SMAD4	SMAD9	SMARCD3	SMURF1	SMURF2	SUV39H2	TOB1A	ZEB2	ZFP128	ZMYM2	
+
+For protein STRAP: 0 links inside the GROUP, and 5 links outside the GROUP:
+Links outside:	AI837181	FOXP3	LMNA	MTAP1B	SMURF1	
+
+For protein TIMELESS: 0 links inside the GROUP, and 11 links outside the GROUP:
+Links outside:	CLOCK	CLSPN	CRY1	MCM2	PER1	PER2	POLD1	POLE	RPA1	RPA2	TIPIN	
+
+For protein TJP1: 0 links inside the GROUP, and 6 links outside the GROUP:
+Links outside:	ACTN4	CDK1	CFTR	CGN	GRIN1	OCLN	
+
+For protein TTC1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TGFBR1	
+
+For protein TUBA1A: 7 links inside the GROUP, and 24 links outside the GROUP:
+Links inside:	ACTN2	HDAC6	HSPH1	MAGED1	MAPT	NDN	S100A8	
+Links outside:	ATXN3	BCAR1	CCT4	CCT7	CDKN2A	DNM1	DYNLL1	FBXO32	GNAI2	GRIN1	GRIN2B	IQCB1	LIPC	NANOG	NDEL1	NPHP4	PSMA2	RPL12	SNCA	SNCB	TM4SF1	TRIM63	UCHL1	YWHAZ	
+
+For protein TUBB5: 1 links inside the GROUP, and 28 links outside the GROUP:
+Links inside:	MYD88	
+Links outside:	AHI1	AIFM1	ARL2	BMPR2	CDKN2A	CEP290	DNAJA1	DNAJA2	DNAJA4	DSK2	INVS	IQCB1	MKS1	NBR1	NPHP1	NPHP4	NUB1	PFN1	PNKD	PSMD4	RAD23B	SNCA	SQSTM1	TBCD	TCP11L1	THBS1	TRIM63	UBQLN1	
+
+For protein TWF1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	BMPR2	
+
+For protein XRCC5: 1 links inside the GROUP, and 5 links outside the GROUP:
+Links inside:	POU5F1	
+Links outside:	BIN1	RNF2	TERF1	TERF2	TFCP2L1	
+
+For all proteins in the GROUP, there are 342 links inside the GROUP, 
+  and 2713 links outside the GROUP. 
+
+***********************************************************************
+
+We are only interested in the proteins which have links INSIDE the GROUP given by user:
+
+
+For protein ACTN2: 1 links inside the GROUP:
+Links inside:	TUBA1A	
+
+For protein ANAPC5: 1 links inside the GROUP:
+Links inside:	CDC20	
+
+For protein AP2B1: 2 links inside the GROUP:
+Links inside:	DLG4	EPS15	
+
+For protein BCL9L: 1 links inside the GROUP:
+Links inside:	DLG4	
+
+For protein BCR: 1 links inside the GROUP:
+Links inside:	RAC1	
+
+For protein BECN1: 1 links inside the GROUP:
+Links inside:	ITSN1	
+
+For protein CD3E: 1 links inside the GROUP:
+Links inside:	PTPN6	
+
+For protein CDC20: 2 links inside the GROUP:
+Links inside:	ANAPC5	POU5F1	
+
+For protein CDC40: 2 links inside the GROUP:
+Links inside:	EPS15	EPS15L1	
+
+For protein CDC42: 4 links inside the GROUP:
+Links inside:	DIAP3	KIN	NET1	PAK3	
+
+For protein CDCA8: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein CDH2: 1 links inside the GROUP:
+Links inside:	NDN	
+
+For protein CDK2: 3 links inside the GROUP:
+Links inside:	MYBL2	PURA	RB1	
+
+For protein CSDA: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein CSNK1E: 1 links inside the GROUP:
+Links inside:	PGK1	
+
+For protein CTBP1: 6 links inside the GROUP:
+Links inside:	CTBP2	HIC1	IKZF1	IKZF4	NRIP1	POU5F1	
+
+For protein CTBP2: 5 links inside the GROUP:
+Links inside:	CTBP1	HIPK2	IKZF1	NDN	POU5F1	
+
+For protein CUL2: 1 links inside the GROUP:
+Links inside:	HTT	
+
+For protein CUL3: 3 links inside the GROUP:
+Links inside:	KEAP1	NCL	NFE2L2	
+
+For protein DDB1: 3 links inside the GROUP:
+Links inside:	HTT	POU5F1	RPTOR	
+
+For protein DDX21: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein DDX47: 2 links inside the GROUP:
+Links inside:	POU5F1	RRP1B	
+
+For protein DIAP3: 1 links inside the GROUP:
+Links inside:	CDC42	
+
+For protein DLG4: 9 links inside the GROUP:
+Links inside:	AP2B1	BCL9L	GIT2	INADL	JAK1	KIF1A	MAPK1	MAPK14	PMPCA	
+
+For protein EGFR: 3 links inside the GROUP:
+Links inside:	EPS15	JAK2	MAPK14	
+
+For protein EIF4EBP1: 1 links inside the GROUP:
+Links inside:	MAPK1	
+
+For protein EN1: 1 links inside the GROUP:
+Links inside:	JUN	
+
+For protein EP300: 4 links inside the GROUP:
+Links inside:	HIF1A	KAT2A	KAT2B	NCOA1	
+
+For protein EPN2: 3 links inside the GROUP:
+Links inside:	EPS15	EPS15L1	ITSN1	
+
+For protein EPS15: 5 links inside the GROUP:
+Links inside:	AP2B1	CDC40	EGFR	EPN2	ITSN1	
+
+For protein EPS15L1: 3 links inside the GROUP:
+Links inside:	CDC40	EPN2	ITSN1	
+
+For protein FOS: 4 links inside the GROUP:
+Links inside:	HHEX	JUN	JUND	NFE2L2	
+
+For protein GATA1: 1 links inside the GROUP:
+Links inside:	RB1	
+
+For protein GFAP: 2 links inside the GROUP:
+Links inside:	HTT	POU5F1	
+
+For protein GIT1: 1 links inside the GROUP:
+Links inside:	PXN	
+
+For protein GIT2: 1 links inside the GROUP:
+Links inside:	DLG4	
+
+For protein GMEB2: 1 links inside the GROUP:
+Links inside:	NFKB1	
+
+For protein HDAC5: 1 links inside the GROUP:
+Links inside:	NCOR2	
+
+For protein HDAC6: 3 links inside the GROUP:
+Links inside:	MAPT	NFKB1	TUBA1A	
+
+For protein HDAC7: 1 links inside the GROUP:
+Links inside:	NCOR2	
+
+For protein HDGF: 1 links inside the GROUP:
+Links inside:	POU5F1	
+
+For protein HES1: 1 links inside the GROUP:
+Links inside:	HES6	
+
+For protein HES6: 1 links inside the GROUP:
+Links inside:	HES1	
+
+For protein HGS: 1 links inside the GROUP:
+Links inside:	IL6ST	
+
+For protein HHEX: 2 links inside the GROUP:
+Links inside:	FOS	JUN	
+
+For protein HIC1: 1 links inside the GROUP:
+Links inside:	CTBP1	
+
+For protein HIF1A: 1 links inside the GROUP:
+Links inside:	EP300	
+
+For protein HIPK2: 2 links inside the GROUP:
+Links inside:	CTBP2	PML	
+
+For protein HIRA: 2 links inside the GROUP:
+Links inside:	PAX3	POU5F1	
+
+For protein HOXA9: 1 links inside the GROUP:
+Links inside:	JUN	
+
+For protein HSPH1: 3 links inside the GROUP:
+Links inside:	PAFAH1B3	PGK1	TUBA1A	
+
+For protein HTT: 5 links inside the GROUP:
+Links inside:	CUL2	DDB1	GFAP	LUC7L2	RAC1	
+
+For protein ID3: 1 links inside the GROUP:
+Links inside:	ID4	
+
+For protein ID4: 1 links inside the GROUP:
+Links inside:	ID3	
+
+For protein IFRD1: 1 links inside the GROUP:
+Links inside:	SAP30	
+
+For protein IGBP1: 1 links inside the GROUP:
+Links inside:	MID2	
+
+For protein IGKC: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein IGKV2-40: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein IKBKB: 2 links inside the GROUP:
+Links inside:	IKBKG	RBCK1	
+
+For protein IKBKG: 5 links inside the GROUP:
+Links inside:	IKBKB	MAP3K1	MAP3K7	NCOA3	RBCK1	
+
+For protein IKZF1: 3 links inside the GROUP:
+Links inside:	CTBP1	CTBP2	IKZF3	
+
+For protein IKZF3: 1 links inside the GROUP:
+Links inside:	IKZF1	
+
+For protein IKZF4: 1 links inside the GROUP:
+Links inside:	CTBP1	
+
+For protein IL1R2: 1 links inside the GROUP:
+Links inside:	IL1RAP	
+
+For protein IL1RAP: 2 links inside the GROUP:
+Links inside:	IL1R2	MYD88	
+
+For protein IL6ST: 1 links inside the GROUP:
+Links inside:	HGS	
+
+For protein ILF3: 2 links inside the GROUP:
+Links inside:	POU5F1	RRP1B	
+
+For protein INADL: 3 links inside the GROUP:
+Links inside:	DLG4	KCNJ10	KCNJ15	
+
+For protein ITSN1: 4 links inside the GROUP:
+Links inside:	BECN1	EPN2	EPS15	EPS15L1	
+
+For protein JAK1: 1 links inside the GROUP:
+Links inside:	DLG4	
+
+For protein JAK2: 2 links inside the GROUP:
+Links inside:	EGFR	KIT	
+
+For protein JUN: 5 links inside the GROUP:
+Links inside:	EN1	FOS	HHEX	HOXA9	MAP3K1	
+
+For protein JUND: 2 links inside the GROUP:
+Links inside:	FOS	NFE2L2	
+
+For protein KAT2A: 2 links inside the GROUP:
+Links inside:	EP300	MYC	
+
+For protein KAT2B: 2 links inside the GROUP:
+Links inside:	EP300	SMAD1	
+
+For protein KCNJ10: 1 links inside the GROUP:
+Links inside:	INADL	
+
+For protein KCNJ15: 1 links inside the GROUP:
+Links inside:	INADL	
+
+For protein KEAP1: 2 links inside the GROUP:
+Links inside:	CUL3	NFE2L2	
+
+For protein KHDRBS1: 1 links inside the GROUP:
+Links inside:	RBM39	
+
+For protein KIF1A: 1 links inside the GROUP:
+Links inside:	DLG4	
+
+For protein KIN: 1 links inside the GROUP:
+Links inside:	CDC42	
+
+For protein KIT: 1 links inside the GROUP:
+Links inside:	JAK2	
+
+For protein KLF11: 1 links inside the GROUP:
+Links inside:	MAPK1	
+
+For protein LRRC59: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein LUC7L2: 2 links inside the GROUP:
+Links inside:	HTT	RRP1B	
+
+For protein LUC7L3: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein LYAR: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein MAFK: 1 links inside the GROUP:
+Links inside:	NFE2L2	
+
+For protein MAGED1: 2 links inside the GROUP:
+Links inside:	PRKAA1	TUBA1A	
+
+For protein MAGI1: 1 links inside the GROUP:
+Links inside:	NET1	
+
+For protein MAP2K3: 1 links inside the GROUP:
+Links inside:	MAPK14	
+
+For protein MAP2K6: 2 links inside the GROUP:
+Links inside:	MAP3K7	MAPK14	
+
+For protein MAP2K7: 2 links inside the GROUP:
+Links inside:	MAP3K1	MAPK10	
+
+For protein MAP3K1: 3 links inside the GROUP:
+Links inside:	IKBKG	JUN	MAP2K7	
+
+For protein MAP3K5: 1 links inside the GROUP:
+Links inside:	RB1CC1	
+
+For protein MAP3K7: 3 links inside the GROUP:
+Links inside:	IKBKG	MAP2K6	MYD88	
+
+For protein MAPK1: 5 links inside the GROUP:
+Links inside:	DLG4	EIF4EBP1	KLF11	PXN	RPS6KB1	
+
+For protein MAPK10: 1 links inside the GROUP:
+Links inside:	MAP2K7	
+
+For protein MAPK14: 5 links inside the GROUP:
+Links inside:	DLG4	EGFR	MAP2K3	MAP2K6	RPS6KB1	
+
+For protein MAPK9: 1 links inside the GROUP:
+Links inside:	RPS6KB1	
+
+For protein MAPT: 2 links inside the GROUP:
+Links inside:	HDAC6	TUBA1A	
+
+For protein MID2: 1 links inside the GROUP:
+Links inside:	IGBP1	
+
+For protein MKI67: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein MYBL2: 1 links inside the GROUP:
+Links inside:	CDK2	
+
+For protein MYC: 1 links inside the GROUP:
+Links inside:	KAT2A	
+
+For protein MYD88: 3 links inside the GROUP:
+Links inside:	IL1RAP	MAP3K7	TUBB5	
+
+For protein NCL: 3 links inside the GROUP:
+Links inside:	CUL3	POU5F1	RRP1B	
+
+For protein NCOA1: 3 links inside the GROUP:
+Links inside:	EP300	NCOA3	NRIP1	
+
+For protein NCOA2: 1 links inside the GROUP:
+Links inside:	NRIP1	
+
+For protein NCOA3: 6 links inside the GROUP:
+Links inside:	IKBKG	NCOA1	NRIP1	PRDX5	PTPN6	SAP18	
+
+For protein NCOA6: 1 links inside the GROUP:
+Links inside:	RBM39	
+
+For protein NCOR1: 1 links inside the GROUP:
+Links inside:	NRIP1	
+
+For protein NCOR2: 3 links inside the GROUP:
+Links inside:	HDAC5	HDAC7	POU5F1	
+
+For protein NDN: 3 links inside the GROUP:
+Links inside:	CDH2	CTBP2	TUBA1A	
+
+For protein NEDD1: 2 links inside the GROUP:
+Links inside:	PRKAA1	RRP1B	
+
+For protein NEDD4: 3 links inside the GROUP:
+Links inside:	POU5F1	SCNN1B	SCNN1G	
+
+For protein NET1: 2 links inside the GROUP:
+Links inside:	CDC42	MAGI1	
+
+For protein NFE2L2: 6 links inside the GROUP:
+Links inside:	CUL3	FOS	JUND	KEAP1	MAFK	NRF1	
+
+For protein NFKB1: 3 links inside the GROUP:
+Links inside:	GMEB2	HDAC6	NFKB2	
+
+For protein NFKB2: 1 links inside the GROUP:
+Links inside:	NFKB1	
+
+For protein NRF1: 1 links inside the GROUP:
+Links inside:	NFE2L2	
+
+For protein NRIP1: 5 links inside the GROUP:
+Links inside:	CTBP1	NCOA1	NCOA2	NCOA3	NCOR1	
+
+For protein PAFAH1B3: 1 links inside the GROUP:
+Links inside:	HSPH1	
+
+For protein PAK3: 1 links inside the GROUP:
+Links inside:	CDC42	
+
+For protein PARD3: 1 links inside the GROUP:
+Links inside:	PARD6A	
+
+For protein PARD6A: 1 links inside the GROUP:
+Links inside:	PARD3	
+
+For protein PARP1: 3 links inside the GROUP:
+Links inside:	PARP2	POU5F1	RRP1B	
+
+For protein PARP2: 1 links inside the GROUP:
+Links inside:	PARP1	
+
+For protein PAX3: 1 links inside the GROUP:
+Links inside:	HIRA	
+
+For protein PGK1: 2 links inside the GROUP:
+Links inside:	CSNK1E	HSPH1	
+
+For protein PML: 2 links inside the GROUP:
+Links inside:	HIPK2	POU5F1	
+
+For protein PMPCA: 1 links inside the GROUP:
+Links inside:	DLG4	
+
+For protein POU5F1: 19 links inside the GROUP:
+Links inside:	CDC20	CTBP1	CTBP2	DDB1	DDX47	GFAP	HDGF	HIRA	ILF3	NCL	NCOR2	NEDD4	PARP1	PML	RBPJ	SAE1	SALL1	SAP30BP	XRCC5	
+
+For protein PRDX5: 1 links inside the GROUP:
+Links inside:	NCOA3	
+
+For protein PRKAA1: 2 links inside the GROUP:
+Links inside:	MAGED1	NEDD1	
+
+For protein PRKAR1A: 1 links inside the GROUP:
+Links inside:	RRP1B	
+
+For protein PTPN6: 2 links inside the GROUP:
+Links inside:	CD3E	NCOA3	
+
+For protein PURA: 1 links inside the GROUP:
+Links inside:	CDK2	
+
+For protein PXN: 2 links inside the GROUP:
+Links inside:	GIT1	MAPK1	
+
+For protein RAC1: 2 links inside the GROUP:
+Links inside:	BCR	HTT	
+
+For protein RB1: 2 links inside the GROUP:
+Links inside:	CDK2	GATA1	
+
+For protein RB1CC1: 1 links inside the GROUP:
+Links inside:	MAP3K5	
+
+For protein RBCK1: 2 links inside the GROUP:
+Links inside:	IKBKB	IKBKG	
+
+For protein RBM39: 2 links inside the GROUP:
+Links inside:	KHDRBS1	NCOA6	
+
+For protein RBPJ: 1 links inside the GROUP:
+Links inside:	POU5F1	
+
+For protein RPS6KB1: 4 links inside the GROUP:
+Links inside:	MAPK1	MAPK14	MAPK9	RPTOR	
+
+For protein RPTOR: 2 links inside the GROUP:
+Links inside:	DDB1	RPS6KB1	
+
+For protein RRP1B: 16 links inside the GROUP:
+Links inside:	CDCA8	CSDA	DDX21	DDX47	IGKC	IGKV2-40	ILF3	LRRC59	LUC7L2	LUC7L3	LYAR	MKI67	NCL	NEDD1	PARP1	PRKAR1A	
+
+For protein S100A8: 1 links inside the GROUP:
+Links inside:	TUBA1A	
+
+For protein SAE1: 1 links inside the GROUP:
+Links inside:	POU5F1	
+
+For protein SALL1: 1 links inside the GROUP:
+Links inside:	POU5F1	
+
+For protein SAP18: 1 links inside the GROUP:
+Links inside:	NCOA3	
+
+For protein SAP30: 1 links inside the GROUP:
+Links inside:	IFRD1	
+
+For protein SAP30BP: 1 links inside the GROUP:
+Links inside:	POU5F1	
+
+For protein SCNN1B: 1 links inside the GROUP:
+Links inside:	NEDD4	
+
+For protein SCNN1G: 1 links inside the GROUP:
+Links inside:	NEDD4	
+
+For protein SMAD1: 1 links inside the GROUP:
+Links inside:	KAT2B	
+
+For protein TUBA1A: 7 links inside the GROUP:
+Links inside:	ACTN2	HDAC6	HSPH1	MAGED1	MAPT	NDN	S100A8	
+
+For protein TUBB5: 1 links inside the GROUP:
+Links inside:	MYD88	
+
+For protein XRCC5: 1 links inside the GROUP:
+Links inside:	POU5F1	

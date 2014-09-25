@@ -1,0 +1,9 @@
+Module ID:	12
+Nodes Number in this module:	15
+Total Link Number in this module:	20
+Within-Module link Number in this module:	17
+The Number of links from this module to other modules:	3
+The following are the proteins in this module:
+CUL3	EN1	FOS	HHEX	HOXA9	JUN	JUND	KEAP1	MAFK	MAP2K7	MAP3K1	MAPK10	NCL	NFE2L2	NRF1
+
+

@@ -1,0 +1,6 @@
+Role number:	2
+The number of nodes with that role:	21
+The following are the proteins with this role:
+AP2B1	CTBP1	CTBP2	DDB1	DDX47	EGFR	EPS15	HTT	IKBKG	ILF3	LUC7L2	MAP2K6	MAP3K1	MAPK14	NCOA3	NDN	NEDD1	NRIP1	PARP1	PML	RPTOR
+
+

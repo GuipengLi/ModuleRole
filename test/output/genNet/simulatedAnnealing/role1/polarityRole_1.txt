@@ -1,0 +1,6 @@
+Role number:	1
+The number of nodes with that role:	4
+The following are the proteins with this role:
+KEAP1	NCOA1	NCOA3	NFE2L2
+
+

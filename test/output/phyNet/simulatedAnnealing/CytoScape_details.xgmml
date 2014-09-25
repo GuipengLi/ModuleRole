@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?><graph xmlns:cy="http://www.cytoscape.org" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" directed="0" label="ModeulRole details graph" xmlns="http://www.cs.rpi.edu/XGMML">
+  <att cy:hidden="1" name="layoutAlgorithm" type="string" value="Circular Layout"/>
+  <node id="1" label="BCL9L">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="2" label="DLG4">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="5"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Hexagon"/>
+  </node>
+  <node id="3" label="EGFR">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Triangle"/>
+  </node>
+  <node id="4" label="EIF4EBP1">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="5" label="GIT1">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="6" label="GIT2">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="7" label="INADL">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="8" label="JAK1">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="9" label="JAK2">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="10" label="KCNJ10">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="11" label="KCNJ15">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="12" label="KIF1A">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="13" label="KIT">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="14" label="KLF11">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="15" label="MAP2K3">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="16" label="MAPK1">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="17" label="MAPK14">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Triangle"/>
+  </node>
+  <node id="18" label="MAPK9">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="19" label="PMPCA">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="20" label="PXN">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="21" label="RPS6KB1">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="22" label="RPTOR">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Triangle"/>
+  </node>
+  <node id="23" label="ANAPC5">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="24" label="BCR">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="25" label="CDC20">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="26" label="CUL2">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="27" label="DDB1">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Triangle"/>
+  </node>
+  <node id="28" label="GFAP">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="29" label="HDAC5">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="30" label="HDAC7">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="31" label="HDGF">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="32" label="HIRA">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="33" label="HTT">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Triangle"/>
+  </node>
+  <node id="34" label="NCOR2">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="35" label="NEDD4">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="36" label="PAX3">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="37" label="POU5F1">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="6"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Octagon"/>
+  </node>
+  <node id="38" label="RAC1">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="39" label="RBPJ">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="40" label="SAE1">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="41" label="SALL1">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="42" label="SAP30BP">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="43" label="SCNN1B">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="44" label="SCNN1G">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="45" label="XRCC5">
+    <att name="module" type="string" value="10"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="46" label="IFRD1">
+    <att name="module" type="string" value="11"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#9588b4" outline="#9588b4" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="47" label="SAP30">
+    <att name="module" type="string" value="11"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#9588b4" outline="#9588b4" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="48" label="CDH2">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="49" label="CTBP1">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Triangle"/>
+  </node>
+  <node id="50" label="CTBP2">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Triangle"/>
+  </node>
+  <node id="51" label="HIC1">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="52" label="HIPK2">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="53" label="IKZF1">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="54" label="IKZF3">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="55" label="IKZF4">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="56" label="NDN">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Triangle"/>
+  </node>
+  <node id="57" label="PML">
+    <att name="module" type="string" value="12"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="20.0" type="Triangle"/>
+  </node>
+  <node id="58" label="EP300">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="59" label="HIF1A">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="60" label="KAT2A">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="61" label="KAT2B">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="62" label="MYC">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="63" label="NCOA1">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="64" label="NCOA2">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="65" label="NCOR1">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="66" label="NRIP1">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Triangle"/>
+  </node>
+  <node id="67" label="SMAD1">
+    <att name="module" type="string" value="13"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="68" label="AP2B1">
+    <att name="module" type="string" value="14"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="20.0" type="Triangle"/>
+  </node>
+  <node id="69" label="BECN1">
+    <att name="module" type="string" value="14"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="70" label="CDC40">
+    <att name="module" type="string" value="14"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="71" label="EPN2">
+    <att name="module" type="string" value="14"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="72" label="EPS15">
+    <att name="module" type="string" value="14"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="20.0" type="Triangle"/>
+  </node>
+  <node id="73" label="EPS15L1">
+    <att name="module" type="string" value="14"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="74" label="ITSN1">
+    <att name="module" type="string" value="14"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="75" label="ID3">
+    <att name="module" type="string" value="15"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#dcc08e" outline="#dcc08e" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="76" label="ID4">
+    <att name="module" type="string" value="15"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#dcc08e" outline="#dcc08e" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="77" label="ACTN2">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="78" label="CSNK1E">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="79" label="GMEB2">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="80" label="HDAC6">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="81" label="HSPH1">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="82" label="MAGED1">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="83" label="MAPT">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="84" label="NEDD1">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Triangle"/>
+  </node>
+  <node id="85" label="NFKB1">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="86" label="NFKB2">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="87" label="PAFAH1B3">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="88" label="PGK1">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="89" label="PRKAA1">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="90" label="S100A8">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="91" label="TUBA1A">
+    <att name="module" type="string" value="16"/>
+    <att name="role" type="string" value="5"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="20.0" type="Hexagon"/>
+  </node>
+  <node id="92" label="IGBP1">
+    <att name="module" type="string" value="17"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#82cca6" outline="#82cca6" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="93" label="MID2">
+    <att name="module" type="string" value="17"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#82cca6" outline="#82cca6" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="94" label="HES1">
+    <att name="module" type="string" value="18"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#c49ab5" outline="#c49ab5" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="95" label="HES6">
+    <att name="module" type="string" value="18"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#c49ab5" outline="#c49ab5" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="96" label="CUL3">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="97" label="EN1">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="98" label="FOS">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="99" label="HHEX">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="100" label="HOXA9">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="101" label="JUN">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="102" label="JUND">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="103" label="KEAP1">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="104" label="MAFK">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="105" label="MAP2K7">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="106" label="MAP3K1">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Triangle"/>
+  </node>
+  <node id="107" label="MAPK10">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="108" label="NCL">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="3"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Rectangle"/>
+  </node>
+  <node id="109" label="NFE2L2">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="110" label="NRF1">
+    <att name="module" type="string" value="19"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="111" label="HGS">
+    <att name="module" type="string" value="2"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#003399" outline="#003399" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="112" label="IL6ST">
+    <att name="module" type="string" value="2"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#003399" outline="#003399" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="113" label="CD3E">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="114" label="IKBKB">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="115" label="IKBKG">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Triangle"/>
+  </node>
+  <node id="116" label="IL1R2">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="117" label="IL1RAP">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="118" label="MAP2K6">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Triangle"/>
+  </node>
+  <node id="119" label="MAP3K7">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="120" label="MYD88">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="121" label="NCOA3">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Triangle"/>
+  </node>
+  <node id="122" label="PRDX5">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="123" label="PTPN6">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="124" label="RBCK1">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="125" label="SAP18">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="126" label="TUBB5">
+    <att name="module" type="string" value="3"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="127" label="CDC42">
+    <att name="module" type="string" value="4"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC33CC" outline="#CC33CC" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="128" label="DIAP3">
+    <att name="module" type="string" value="4"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC33CC" outline="#CC33CC" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="129" label="KIN">
+    <att name="module" type="string" value="4"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC33CC" outline="#CC33CC" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="130" label="MAGI1">
+    <att name="module" type="string" value="4"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC33CC" outline="#CC33CC" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="131" label="NET1">
+    <att name="module" type="string" value="4"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC33CC" outline="#CC33CC" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="132" label="PAK3">
+    <att name="module" type="string" value="4"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC33CC" outline="#CC33CC" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="133" label="PARD3">
+    <att name="module" type="string" value="5"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FFCC00" outline="#FFCC00" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="134" label="PARD6A">
+    <att name="module" type="string" value="5"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FFCC00" outline="#FFCC00" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="135" label="KHDRBS1">
+    <att name="module" type="string" value="6"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FFFF66" outline="#FFFF66" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="136" label="NCOA6">
+    <att name="module" type="string" value="6"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FFFF66" outline="#FFFF66" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="137" label="RBM39">
+    <att name="module" type="string" value="6"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FFFF66" outline="#FFFF66" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="138" label="CDK2">
+    <att name="module" type="string" value="7"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FF9900" outline="#FF9900" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="139" label="GATA1">
+    <att name="module" type="string" value="7"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FF9900" outline="#FF9900" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="140" label="MYBL2">
+    <att name="module" type="string" value="7"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FF9900" outline="#FF9900" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="141" label="PURA">
+    <att name="module" type="string" value="7"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FF9900" outline="#FF9900" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="142" label="RB1">
+    <att name="module" type="string" value="7"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#FF9900" outline="#FF9900" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="143" label="CDCA8">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="144" label="CSDA">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="145" label="DDX21">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="146" label="DDX47">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Triangle"/>
+  </node>
+  <node id="147" label="IGKC">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="148" label="IGKV2-40">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="149" label="ILF3">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Triangle"/>
+  </node>
+  <node id="150" label="LRRC59">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="151" label="LUC7L2">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Triangle"/>
+  </node>
+  <node id="152" label="LUC7L3">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="153" label="LYAR">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="154" label="MKI67">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="155" label="PARP1">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="2"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Triangle"/>
+  </node>
+  <node id="156" label="PARP2">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="157" label="PRKAR1A">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="158" label="RRP1B">
+    <att name="module" type="string" value="8"/>
+    <att name="role" type="string" value="5"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="20.0" type="Hexagon"/>
+  </node>
+  <node id="159" label="MAP3K5">
+    <att name="module" type="string" value="9"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC6600" outline="#CC6600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="160" label="RB1CC1">
+    <att name="module" type="string" value="9"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#CC6600" outline="#CC6600" size="20.0" type="Ellipse"/>
+  </node>
+  <edge label="BCL9L-DLG4" source="1" target="2">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-GIT2" source="2" target="6">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-INADL" source="2" target="7">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-JAK1" source="2" target="8">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-KIF1A" source="2" target="12">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-MAPK1" source="2" target="16">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-MAPK14" source="2" target="17">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-PMPCA" source="2" target="19">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DLG4-AP2B1" source="2" target="68">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="EGFR-JAK2" source="3" target="9">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EGFR-MAPK14" source="3" target="17">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EGFR-EPS15" source="3" target="72">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="EIF4EBP1-MAPK1" source="4" target="16">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="GIT1-PXN" source="5" target="20">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="INADL-KCNJ10" source="7" target="10">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="INADL-KCNJ15" source="7" target="11">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="JAK2-KIT" source="9" target="13">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="KLF11-MAPK1" source="14" target="16">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAP2K3-MAPK14" source="15" target="17">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAPK1-PXN" source="16" target="20">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAPK1-RPS6KB1" source="16" target="21">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAPK14-RPS6KB1" source="17" target="21">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAPK14-MAP2K6" source="17" target="118">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="MAPK9-RPS6KB1" source="18" target="21">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="RPS6KB1-RPTOR" source="21" target="22">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="RPTOR-DDB1" source="22" target="27">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="ANAPC5-CDC20" source="23" target="25">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="BCR-RAC1" source="24" target="38">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDC20-POU5F1" source="25" target="37">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CUL2-HTT" source="26" target="33">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DDB1-HTT" source="27" target="33">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DDB1-POU5F1" source="27" target="37">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="GFAP-HTT" source="28" target="33">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="GFAP-POU5F1" source="28" target="37">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HDAC5-NCOR2" source="29" target="34">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HDAC7-NCOR2" source="30" target="34">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HDGF-POU5F1" source="31" target="37">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HIRA-PAX3" source="32" target="36">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HIRA-POU5F1" source="32" target="37">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HTT-RAC1" source="33" target="38">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HTT-LUC7L2" source="33" target="151">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="NCOR2-POU5F1" source="34" target="37">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NEDD4-POU5F1" source="35" target="37">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NEDD4-SCNN1B" source="35" target="43">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NEDD4-SCNN1G" source="35" target="44">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="POU5F1-RBPJ" source="37" target="39">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="POU5F1-SAE1" source="37" target="40">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="POU5F1-SALL1" source="37" target="41">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="POU5F1-SAP30BP" source="37" target="42">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="POU5F1-XRCC5" source="37" target="45">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC99FF" width="2.8284271247461903"/>
+  </edge>
+  <edge label="POU5F1-CTBP1" source="37" target="49">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="POU5F1-CTBP2" source="37" target="50">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="POU5F1-DDX47" source="37" target="146">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="POU5F1-ILF3" source="37" target="149">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="POU5F1-NCL" source="37" target="108">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="POU5F1-PARP1" source="37" target="155">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="POU5F1-PML" source="37" target="57">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="IFRD1-SAP30" source="46" target="47">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#9588b4" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDH2-NDN" source="48" target="56">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CTBP1-CTBP2" source="49" target="50">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CTBP1-HIC1" source="49" target="51">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CTBP1-IKZF1" source="49" target="53">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CTBP1-IKZF4" source="49" target="55">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CTBP1-NRIP1" source="49" target="66">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="CTBP2-HIPK2" source="50" target="52">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CTBP2-IKZF1" source="50" target="53">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CTBP2-NDN" source="50" target="56">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HIPK2-PML" source="52" target="57">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IKZF1-IKZF3" source="53" target="54">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#b884d2" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NDN-TUBA1A" source="56" target="91">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="EP300-HIF1A" source="58" target="59">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EP300-KAT2A" source="58" target="60">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EP300-KAT2B" source="58" target="61">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EP300-NCOA1" source="58" target="63">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="KAT2A-MYC" source="60" target="62">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="KAT2B-SMAD1" source="61" target="67">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NCOA1-NRIP1" source="63" target="66">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NCOA2-NRIP1" source="64" target="66">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NCOR1-NRIP1" source="65" target="66">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#a098bf" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NRIP1-NCOA3" source="66" target="121">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="AP2B1-EPS15" source="68" target="72">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="BECN1-ITSN1" source="69" target="74">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDC40-EPS15" source="70" target="72">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDC40-EPS15L1" source="70" target="73">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EPN2-EPS15" source="71" target="72">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EPN2-EPS15L1" source="71" target="73">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EPN2-ITSN1" source="71" target="74">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EPS15-ITSN1" source="72" target="74">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EPS15L1-ITSN1" source="73" target="74">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#aacb7d" width="2.8284271247461903"/>
+  </edge>
+  <edge label="ID3-ID4" source="75" target="76">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#dcc08e" width="2.8284271247461903"/>
+  </edge>
+  <edge label="ACTN2-TUBA1A" source="77" target="91">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CSNK1E-PGK1" source="78" target="88">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="GMEB2-NFKB1" source="79" target="85">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HDAC6-MAPT" source="80" target="83">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HDAC6-NFKB1" source="80" target="85">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HDAC6-TUBA1A" source="80" target="91">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HSPH1-PAFAH1B3" source="81" target="87">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HSPH1-PGK1" source="81" target="88">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HSPH1-TUBA1A" source="81" target="91">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAGED1-PRKAA1" source="82" target="89">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAGED1-TUBA1A" source="82" target="91">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAPT-TUBA1A" source="83" target="91">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NEDD1-PRKAA1" source="84" target="89">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NEDD1-RRP1B" source="84" target="158">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="NFKB1-NFKB2" source="85" target="86">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="S100A8-TUBA1A" source="90" target="91">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#78c0cc" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IGBP1-MID2" source="92" target="93">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#82cca6" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HES1-HES6" source="94" target="95">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#c49ab5" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CUL3-KEAP1" source="96" target="103">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CUL3-NCL" source="96" target="108">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CUL3-NFE2L2" source="96" target="109">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="EN1-JUN" source="97" target="101">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="FOS-HHEX" source="98" target="99">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="FOS-JUN" source="98" target="101">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="FOS-JUND" source="98" target="102">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="FOS-NFE2L2" source="98" target="109">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HHEX-JUN" source="99" target="101">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HOXA9-JUN" source="100" target="101">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="JUN-MAP3K1" source="101" target="106">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="JUND-NFE2L2" source="102" target="109">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="KEAP1-NFE2L2" source="103" target="109">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAFK-NFE2L2" source="104" target="109">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAP2K7-MAP3K1" source="105" target="106">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAP2K7-MAPK10" source="105" target="107">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAP3K1-IKBKG" source="106" target="115">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="NCL-RRP1B" source="108" target="158">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="NFE2L2-NRF1" source="109" target="110">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#8bb384" width="2.8284271247461903"/>
+  </edge>
+  <edge label="HGS-IL6ST" source="111" target="112">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#003399" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CD3E-PTPN6" source="113" target="123">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IKBKB-IKBKG" source="114" target="115">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IKBKB-RBCK1" source="114" target="124">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IKBKG-MAP3K7" source="115" target="119">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IKBKG-NCOA3" source="115" target="121">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IKBKG-RBCK1" source="115" target="124">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IL1R2-IL1RAP" source="116" target="117">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IL1RAP-MYD88" source="117" target="120">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAP2K6-MAP3K7" source="118" target="119">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAP3K7-MYD88" source="119" target="120">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MYD88-TUBB5" source="120" target="126">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NCOA3-PRDX5" source="121" target="122">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NCOA3-PTPN6" source="121" target="123">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NCOA3-SAP18" source="121" target="125">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC0033" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDC42-DIAP3" source="127" target="128">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC33CC" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDC42-KIN" source="127" target="129">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC33CC" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDC42-NET1" source="127" target="131">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC33CC" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDC42-PAK3" source="127" target="132">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC33CC" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAGI1-NET1" source="130" target="131">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC33CC" width="2.8284271247461903"/>
+  </edge>
+  <edge label="PARD3-PARD6A" source="133" target="134">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#FFCC00" width="2.8284271247461903"/>
+  </edge>
+  <edge label="KHDRBS1-RBM39" source="135" target="137">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#FFFF66" width="2.8284271247461903"/>
+  </edge>
+  <edge label="NCOA6-RBM39" source="136" target="137">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#FFFF66" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDK2-MYBL2" source="138" target="140">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#FF9900" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDK2-PURA" source="138" target="141">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#FF9900" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDK2-RB1" source="138" target="142">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#FF9900" width="2.8284271247461903"/>
+  </edge>
+  <edge label="GATA1-RB1" source="139" target="142">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#FF9900" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CDCA8-RRP1B" source="143" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="CSDA-RRP1B" source="144" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DDX21-RRP1B" source="145" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="DDX47-RRP1B" source="146" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IGKC-RRP1B" source="147" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="IGKV2-40-RRP1B" source="148" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="ILF3-RRP1B" source="149" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="LRRC59-RRP1B" source="150" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="LUC7L2-RRP1B" source="151" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="LUC7L3-RRP1B" source="152" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="LYAR-RRP1B" source="153" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MKI67-RRP1B" source="154" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="PARP1-PARP2" source="155" target="156">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="PARP1-RRP1B" source="155" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="PRKAR1A-RRP1B" source="157" target="158">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CCFF99" width="2.8284271247461903"/>
+  </edge>
+  <edge label="MAP3K5-RB1CC1" source="159" target="160">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#CC6600" width="2.8284271247461903"/>
+  </edge>
+</graph>

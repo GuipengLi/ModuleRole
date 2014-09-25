@@ -1,0 +1,9 @@
+Module ID:	8
+Nodes Number in this module:	27
+Total Link Number in this module:	37
+Within-Module link Number in this module:	29
+The Number of links from this module to other modules:	8
+The following are the proteins in this module:
+ANAPC5	CDC20	CDH2	CTBP1	CTBP2	HDAC5	HDAC7	HDGF	HIC1	HIPK2	HIRA	IKZF1	IKZF3	IKZF4	NCOR2	NDN	NEDD4	PAX3	PML	POU5F1	RBPJ	SAE1	SALL1	SAP30BP	SCNN1B	SCNN1G	XRCC5
+
+

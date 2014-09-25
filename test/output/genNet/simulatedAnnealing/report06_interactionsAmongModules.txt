@@ -1,0 +1,14 @@
+Inside module 1, there are 1 interactions:
+NCOA1	1	NCOA3
+
+
+Between module 1 and module 2, there are 0 interactions:
+
+
+Between module 2 and module 1, there are 0 interactions:
+
+
+Inside module 2, there are 1 interactions:
+KEAP1	1	NFE2L2
+
+

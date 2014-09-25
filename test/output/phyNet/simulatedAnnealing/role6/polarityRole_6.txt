@@ -1,0 +1,6 @@
+Role number:	6
+The number of nodes with that role:	1
+The following are the proteins with this role:
+POU5F1
+
+

@@ -1,0 +1,171 @@
+Module ID:	1
+Nodes Number in this module:	22
+Total Link Number in this module:	26
+Within-Module link Number in this module:	22
+The Number of links from this module to other modules:	4
+The following are the proteins in this module:
+BCL9L	DLG4	EGFR	EIF4EBP1	GIT1	GIT2	INADL	JAK1	JAK2	KCNJ10	KCNJ15	KIF1A	KIT	KLF11	MAP2K3	MAPK1	MAPK14	MAPK9	PMPCA	PXN	RPS6KB1	RPTOR
+
+
+Module ID:	2
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+HGS	IL6ST
+
+
+Module ID:	3
+Nodes Number in this module:	14
+Total Link Number in this module:	17
+Within-Module link Number in this module:	14
+The Number of links from this module to other modules:	3
+The following are the proteins in this module:
+CD3E	IKBKB	IKBKG	IL1R2	IL1RAP	MAP2K6	MAP3K7	MYD88	NCOA3	PRDX5	PTPN6	RBCK1	SAP18	TUBB5
+
+
+Module ID:	4
+Nodes Number in this module:	6
+Total Link Number in this module:	5
+Within-Module link Number in this module:	5
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+CDC42	DIAP3	KIN	MAGI1	NET1	PAK3
+
+
+Module ID:	5
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+PARD3	PARD6A
+
+
+Module ID:	6
+Nodes Number in this module:	3
+Total Link Number in this module:	2
+Within-Module link Number in this module:	2
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+KHDRBS1	NCOA6	RBM39
+
+
+Module ID:	7
+Nodes Number in this module:	5
+Total Link Number in this module:	4
+Within-Module link Number in this module:	4
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+CDK2	GATA1	MYBL2	PURA	RB1
+
+
+Module ID:	8
+Nodes Number in this module:	16
+Total Link Number in this module:	21
+Within-Module link Number in this module:	15
+The Number of links from this module to other modules:	6
+The following are the proteins in this module:
+CDCA8	CSDA	DDX21	DDX47	IGKC	IGKV2-40	ILF3	LRRC59	LUC7L2	LUC7L3	LYAR	MKI67	PARP1	PARP2	PRKAR1A	RRP1B
+
+
+Module ID:	9
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+MAP3K5	RB1CC1
+
+
+Module ID:	10
+Nodes Number in this module:	23
+Total Link Number in this module:	32
+Within-Module link Number in this module:	23
+The Number of links from this module to other modules:	9
+The following are the proteins in this module:
+ANAPC5	BCR	CDC20	CUL2	DDB1	GFAP	HDAC5	HDAC7	HDGF	HIRA	HTT	NCOR2	NEDD4	PAX3	POU5F1	RAC1	RBPJ	SAE1	SALL1	SAP30BP	SCNN1B	SCNN1G	XRCC5
+
+
+Module ID:	11
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+IFRD1	SAP30
+
+
+Module ID:	12
+Nodes Number in this module:	10
+Total Link Number in this module:	15
+Within-Module link Number in this module:	10
+The Number of links from this module to other modules:	5
+The following are the proteins in this module:
+CDH2	CTBP1	CTBP2	HIC1	HIPK2	IKZF1	IKZF3	IKZF4	NDN	PML
+
+
+Module ID:	13
+Nodes Number in this module:	10
+Total Link Number in this module:	11
+Within-Module link Number in this module:	9
+The Number of links from this module to other modules:	2
+The following are the proteins in this module:
+EP300	HIF1A	KAT2A	KAT2B	MYC	NCOA1	NCOA2	NCOR1	NRIP1	SMAD1
+
+
+Module ID:	14
+Nodes Number in this module:	7
+Total Link Number in this module:	11
+Within-Module link Number in this module:	9
+The Number of links from this module to other modules:	2
+The following are the proteins in this module:
+AP2B1	BECN1	CDC40	EPN2	EPS15	EPS15L1	ITSN1
+
+
+Module ID:	15
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+ID3	ID4
+
+
+Module ID:	16
+Nodes Number in this module:	15
+Total Link Number in this module:	17
+Within-Module link Number in this module:	15
+The Number of links from this module to other modules:	2
+The following are the proteins in this module:
+ACTN2	CSNK1E	GMEB2	HDAC6	HSPH1	MAGED1	MAPT	NEDD1	NFKB1	NFKB2	PAFAH1B3	PGK1	PRKAA1	S100A8	TUBA1A
+
+
+Module ID:	17
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+IGBP1	MID2
+
+
+Module ID:	18
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+HES1	HES6
+
+
+Module ID:	19
+Nodes Number in this module:	15
+Total Link Number in this module:	20
+Within-Module link Number in this module:	17
+The Number of links from this module to other modules:	3
+The following are the proteins in this module:
+CUL3	EN1	FOS	HHEX	HOXA9	JUN	JUND	KEAP1	MAFK	MAP2K7	MAP3K1	MAPK10	NCL	NFE2L2	NRF1
+
+

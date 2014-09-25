@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><graph xmlns:cy="http://www.cytoscape.org" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" directed="0" label="ModeulRole among modules graph " xmlns="http://www.cs.rpi.edu/XGMML">
+  <node id="1" label="module1">
+    <att name="module" type="string" value="module1"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="6"/>
+    <graphics fill="#336600" outline="#336600" size="10.0" type="Ellipse"/>
+  </node>
+  <node id="2" label="module2">
+    <att name="module" type="string" value="module2"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="10"/>
+    <graphics fill="#003399" outline="#003399" size="13.0" type="Ellipse"/>
+  </node>
+  <node id="3" label="module3">
+    <att name="module" type="string" value="module3"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#CC0033" outline="#CC0033" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="4" label="module4">
+    <att name="module" type="string" value="module4"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#CC33CC" outline="#CC33CC" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="5" label="module5">
+    <att name="module" type="string" value="module5"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="5"/>
+    <graphics fill="#FFCC00" outline="#FFCC00" size="9.0" type="Ellipse"/>
+  </node>
+  <node id="6" label="module6">
+    <att name="module" type="string" value="module6"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#FFFF66" outline="#FFFF66" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="7" label="module7">
+    <att name="module" type="string" value="module7"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#FF9900" outline="#FF9900" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="8" label="module8">
+    <att name="module" type="string" value="module8"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="27"/>
+    <graphics fill="#CCFF99" outline="#CCFF99" size="21.0" type="Ellipse"/>
+  </node>
+  <node id="9" label="module9">
+    <att name="module" type="string" value="module9"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#CC6600" outline="#CC6600" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="10" label="module10">
+    <att name="module" type="string" value="module10"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="3"/>
+    <graphics fill="#CC99FF" outline="#CC99FF" size="7.0" type="Ellipse"/>
+  </node>
+  <node id="11" label="module11">
+    <att name="module" type="string" value="module11"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="15"/>
+    <graphics fill="#9588b4" outline="#9588b4" size="15.0" type="Ellipse"/>
+  </node>
+  <node id="12" label="module12">
+    <att name="module" type="string" value="module12"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="15"/>
+    <graphics fill="#b884d2" outline="#b884d2" size="15.0" type="Ellipse"/>
+  </node>
+  <node id="13" label="module13">
+    <att name="module" type="string" value="module13"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#a098bf" outline="#a098bf" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="14" label="module14">
+    <att name="module" type="string" value="module14"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="15"/>
+    <graphics fill="#aacb7d" outline="#aacb7d" size="15.0" type="Ellipse"/>
+  </node>
+  <node id="15" label="module15">
+    <att name="module" type="string" value="module15"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#dcc08e" outline="#dcc08e" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="16" label="module16">
+    <att name="module" type="string" value="module16"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="15"/>
+    <graphics fill="#78c0cc" outline="#78c0cc" size="15.0" type="Ellipse"/>
+  </node>
+  <node id="17" label="module17">
+    <att name="module" type="string" value="module17"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="15"/>
+    <graphics fill="#82cca6" outline="#82cca6" size="15.0" type="Ellipse"/>
+  </node>
+  <node id="18" label="module18">
+    <att name="module" type="string" value="module18"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="11"/>
+    <graphics fill="#c49ab5" outline="#c49ab5" size="13.0" type="Ellipse"/>
+  </node>
+  <node id="19" label="module19">
+    <att name="module" type="string" value="module19"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="9"/>
+    <graphics fill="#8bb384" outline="#8bb384" size="12.0" type="Ellipse"/>
+  </node>
+  <edge label="module2-module8" source="2" target="8">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#999999" width="2.8284271247461903"/>
+  </edge>
+  <edge label="module2-module16" source="2" target="16">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module2-module17" source="2" target="17">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module2-module18" source="2" target="18">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module8-module11" source="8" target="11">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module8-module12" source="8" target="12">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module8-module14" source="8" target="14">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module8-module16" source="8" target="16">
+    <att name="weight" type="integer" value="3"/>
+    <graphics fill="#999999" width="3.4641016151377544"/>
+  </edge>
+  <edge label="module11-module16" source="11" target="16">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module12-module16" source="12" target="16">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module12-module19" source="12" target="19">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module14-module19" source="14" target="19">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+  <edge label="module17-module18" source="17" target="18">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#999999" width="2.8284271247461903"/>
+  </edge>
+  <edge label="module18-module19" source="18" target="19">
+    <att name="weight" type="integer" value="1"/>
+    <graphics fill="#999999" width="2.0"/>
+  </edge>
+</graph>

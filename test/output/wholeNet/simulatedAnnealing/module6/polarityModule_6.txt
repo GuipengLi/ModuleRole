@@ -1,0 +1,9 @@
+Module ID:	6
+Nodes Number in this module:	2
+Total Link Number in this module:	1
+Within-Module link Number in this module:	1
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+IFRD1	SAP30
+
+

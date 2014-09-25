@@ -1,0 +1,1272 @@
+Inside module 1, there are 5 interactions:
+CDC42	1	DIAP3
+CDC42	1	KIN
+CDC42	1	NET1
+CDC42	1	PAK3
+MAGI1	1	NET1
+
+
+Between module 1 and module 2, there are 0 interactions:
+
+
+Between module 1 and module 3, there are 0 interactions:
+
+
+Between module 1 and module 4, there are 0 interactions:
+
+
+Between module 1 and module 5, there are 0 interactions:
+
+
+Between module 1 and module 6, there are 0 interactions:
+
+
+Between module 1 and module 7, there are 0 interactions:
+
+
+Between module 1 and module 8, there are 0 interactions:
+
+
+Between module 1 and module 9, there are 0 interactions:
+
+
+Between module 1 and module 10, there are 0 interactions:
+
+
+Between module 1 and module 11, there are 0 interactions:
+
+
+Between module 1 and module 12, there are 0 interactions:
+
+
+Between module 1 and module 13, there are 0 interactions:
+
+
+Between module 1 and module 14, there are 0 interactions:
+
+
+Between module 1 and module 15, there are 0 interactions:
+
+
+Between module 1 and module 16, there are 0 interactions:
+
+
+Between module 1 and module 17, there are 0 interactions:
+
+
+Between module 1 and module 18, there are 0 interactions:
+
+
+Between module 1 and module 19, there are 0 interactions:
+
+
+Between module 2 and module 1, there are 0 interactions:
+
+
+Inside module 2, there are 9 interactions:
+BCR	1	RAC1
+CUL2	1	HTT
+DDB1	1	HTT
+DDB1	1	RPTOR
+GFAP	1	HTT
+HTT	1	LUC7L2
+HTT	1	RAC1
+MAPK9	1	RPS6KB1
+RPS6KB1	1	RPTOR
+
+
+Between module 2 and module 3, there are 0 interactions:
+
+
+Between module 2 and module 4, there are 0 interactions:
+
+
+Between module 2 and module 5, there are 0 interactions:
+
+
+Between module 2 and module 6, there are 0 interactions:
+
+
+Between module 2 and module 7, there are 0 interactions:
+
+
+Between module 2 and module 8, there are 2 interactions:
+DDB1	1	POU5F1
+GFAP	1	POU5F1
+
+
+Between module 2 and module 9, there are 0 interactions:
+
+
+Between module 2 and module 10, there are 0 interactions:
+
+
+Between module 2 and module 11, there are 0 interactions:
+
+
+Between module 2 and module 12, there are 0 interactions:
+
+
+Between module 2 and module 13, there are 0 interactions:
+
+
+Between module 2 and module 14, there are 0 interactions:
+
+
+Between module 2 and module 15, there are 0 interactions:
+
+
+Between module 2 and module 16, there are 1 interactions:
+LUC7L2	1	RRP1B
+
+
+Between module 2 and module 17, there are 1 interactions:
+RPS6KB1	1	MAPK1
+
+
+Between module 2 and module 18, there are 1 interactions:
+RPS6KB1	1	MAPK14
+
+
+Between module 2 and module 19, there are 0 interactions:
+
+
+Between module 3 and module 1, there are 0 interactions:
+
+
+Between module 3 and module 2, there are 0 interactions:
+
+
+Inside module 3, there are 1 interactions:
+IGBP1	1	MID2
+
+
+Between module 3 and module 4, there are 0 interactions:
+
+
+Between module 3 and module 5, there are 0 interactions:
+
+
+Between module 3 and module 6, there are 0 interactions:
+
+
+Between module 3 and module 7, there are 0 interactions:
+
+
+Between module 3 and module 8, there are 0 interactions:
+
+
+Between module 3 and module 9, there are 0 interactions:
+
+
+Between module 3 and module 10, there are 0 interactions:
+
+
+Between module 3 and module 11, there are 0 interactions:
+
+
+Between module 3 and module 12, there are 0 interactions:
+
+
+Between module 3 and module 13, there are 0 interactions:
+
+
+Between module 3 and module 14, there are 0 interactions:
+
+
+Between module 3 and module 15, there are 0 interactions:
+
+
+Between module 3 and module 16, there are 0 interactions:
+
+
+Between module 3 and module 17, there are 0 interactions:
+
+
+Between module 3 and module 18, there are 0 interactions:
+
+
+Between module 3 and module 19, there are 0 interactions:
+
+
+Between module 4 and module 1, there are 0 interactions:
+
+
+Between module 4 and module 2, there are 0 interactions:
+
+
+Between module 4 and module 3, there are 0 interactions:
+
+
+Inside module 4, there are 1 interactions:
+PARD3	1	PARD6A
+
+
+Between module 4 and module 5, there are 0 interactions:
+
+
+Between module 4 and module 6, there are 0 interactions:
+
+
+Between module 4 and module 7, there are 0 interactions:
+
+
+Between module 4 and module 8, there are 0 interactions:
+
+
+Between module 4 and module 9, there are 0 interactions:
+
+
+Between module 4 and module 10, there are 0 interactions:
+
+
+Between module 4 and module 11, there are 0 interactions:
+
+
+Between module 4 and module 12, there are 0 interactions:
+
+
+Between module 4 and module 13, there are 0 interactions:
+
+
+Between module 4 and module 14, there are 0 interactions:
+
+
+Between module 4 and module 15, there are 0 interactions:
+
+
+Between module 4 and module 16, there are 0 interactions:
+
+
+Between module 4 and module 17, there are 0 interactions:
+
+
+Between module 4 and module 18, there are 0 interactions:
+
+
+Between module 4 and module 19, there are 0 interactions:
+
+
+Between module 5 and module 1, there are 0 interactions:
+
+
+Between module 5 and module 2, there are 0 interactions:
+
+
+Between module 5 and module 3, there are 0 interactions:
+
+
+Between module 5 and module 4, there are 0 interactions:
+
+
+Inside module 5, there are 4 interactions:
+CDK2	1	MYBL2
+CDK2	1	PURA
+CDK2	1	RB1
+GATA1	1	RB1
+
+
+Between module 5 and module 6, there are 0 interactions:
+
+
+Between module 5 and module 7, there are 0 interactions:
+
+
+Between module 5 and module 8, there are 0 interactions:
+
+
+Between module 5 and module 9, there are 0 interactions:
+
+
+Between module 5 and module 10, there are 0 interactions:
+
+
+Between module 5 and module 11, there are 0 interactions:
+
+
+Between module 5 and module 12, there are 0 interactions:
+
+
+Between module 5 and module 13, there are 0 interactions:
+
+
+Between module 5 and module 14, there are 0 interactions:
+
+
+Between module 5 and module 15, there are 0 interactions:
+
+
+Between module 5 and module 16, there are 0 interactions:
+
+
+Between module 5 and module 17, there are 0 interactions:
+
+
+Between module 5 and module 18, there are 0 interactions:
+
+
+Between module 5 and module 19, there are 0 interactions:
+
+
+Between module 6 and module 1, there are 0 interactions:
+
+
+Between module 6 and module 2, there are 0 interactions:
+
+
+Between module 6 and module 3, there are 0 interactions:
+
+
+Between module 6 and module 4, there are 0 interactions:
+
+
+Between module 6 and module 5, there are 0 interactions:
+
+
+Inside module 6, there are 1 interactions:
+IFRD1	1	SAP30
+
+
+Between module 6 and module 7, there are 0 interactions:
+
+
+Between module 6 and module 8, there are 0 interactions:
+
+
+Between module 6 and module 9, there are 0 interactions:
+
+
+Between module 6 and module 10, there are 0 interactions:
+
+
+Between module 6 and module 11, there are 0 interactions:
+
+
+Between module 6 and module 12, there are 0 interactions:
+
+
+Between module 6 and module 13, there are 0 interactions:
+
+
+Between module 6 and module 14, there are 0 interactions:
+
+
+Between module 6 and module 15, there are 0 interactions:
+
+
+Between module 6 and module 16, there are 0 interactions:
+
+
+Between module 6 and module 17, there are 0 interactions:
+
+
+Between module 6 and module 18, there are 0 interactions:
+
+
+Between module 6 and module 19, there are 0 interactions:
+
+
+Between module 7 and module 1, there are 0 interactions:
+
+
+Between module 7 and module 2, there are 0 interactions:
+
+
+Between module 7 and module 3, there are 0 interactions:
+
+
+Between module 7 and module 4, there are 0 interactions:
+
+
+Between module 7 and module 5, there are 0 interactions:
+
+
+Between module 7 and module 6, there are 0 interactions:
+
+
+Inside module 7, there are 1 interactions:
+HES1	1	HES6
+
+
+Between module 7 and module 8, there are 0 interactions:
+
+
+Between module 7 and module 9, there are 0 interactions:
+
+
+Between module 7 and module 10, there are 0 interactions:
+
+
+Between module 7 and module 11, there are 0 interactions:
+
+
+Between module 7 and module 12, there are 0 interactions:
+
+
+Between module 7 and module 13, there are 0 interactions:
+
+
+Between module 7 and module 14, there are 0 interactions:
+
+
+Between module 7 and module 15, there are 0 interactions:
+
+
+Between module 7 and module 16, there are 0 interactions:
+
+
+Between module 7 and module 17, there are 0 interactions:
+
+
+Between module 7 and module 18, there are 0 interactions:
+
+
+Between module 7 and module 19, there are 0 interactions:
+
+
+Between module 8 and module 1, there are 0 interactions:
+
+
+Between module 8 and module 2, there are 2 interactions:
+POU5F1	1	DDB1
+POU5F1	1	GFAP
+
+
+Between module 8 and module 3, there are 0 interactions:
+
+
+Between module 8 and module 4, there are 0 interactions:
+
+
+Between module 8 and module 5, there are 0 interactions:
+
+
+Between module 8 and module 6, there are 0 interactions:
+
+
+Between module 8 and module 7, there are 0 interactions:
+
+
+Inside module 8, there are 29 interactions:
+ANAPC5	1	CDC20
+CDC20	1	POU5F1
+CDH2	1	NDN
+CTBP1	1	CTBP2
+CTBP1	1	HIC1
+CTBP1	1	IKZF1
+CTBP1	1	IKZF4
+CTBP1	1	POU5F1
+CTBP2	1	HIPK2
+CTBP2	1	IKZF1
+CTBP2	1	NDN
+CTBP2	1	POU5F1
+HDAC5	1	NCOR2
+HDAC7	1	NCOR2
+HDGF	1	POU5F1
+HIPK2	1	PML
+HIRA	1	PAX3
+HIRA	1	POU5F1
+IKZF1	1	IKZF3
+NCOR2	1	POU5F1
+NEDD4	1	POU5F1
+NEDD4	1	SCNN1B
+NEDD4	1	SCNN1G
+PML	1	POU5F1
+POU5F1	1	RBPJ
+POU5F1	1	SAE1
+POU5F1	1	SALL1
+POU5F1	1	SAP30BP
+POU5F1	1	XRCC5
+
+
+Between module 8 and module 9, there are 0 interactions:
+
+
+Between module 8 and module 10, there are 0 interactions:
+
+
+Between module 8 and module 11, there are 1 interactions:
+NDN	1	TUBA1A
+
+
+Between module 8 and module 12, there are 1 interactions:
+POU5F1	1	NCL
+
+
+Between module 8 and module 13, there are 0 interactions:
+
+
+Between module 8 and module 14, there are 1 interactions:
+CTBP1	1	NRIP1
+
+
+Between module 8 and module 15, there are 0 interactions:
+
+
+Between module 8 and module 16, there are 3 interactions:
+POU5F1	1	DDX47
+POU5F1	1	ILF3
+POU5F1	1	PARP1
+
+
+Between module 8 and module 17, there are 0 interactions:
+
+
+Between module 8 and module 18, there are 0 interactions:
+
+
+Between module 8 and module 19, there are 0 interactions:
+
+
+Between module 9 and module 1, there are 0 interactions:
+
+
+Between module 9 and module 2, there are 0 interactions:
+
+
+Between module 9 and module 3, there are 0 interactions:
+
+
+Between module 9 and module 4, there are 0 interactions:
+
+
+Between module 9 and module 5, there are 0 interactions:
+
+
+Between module 9 and module 6, there are 0 interactions:
+
+
+Between module 9 and module 7, there are 0 interactions:
+
+
+Between module 9 and module 8, there are 0 interactions:
+
+
+Inside module 9, there are 1 interactions:
+ID3	1	ID4
+
+
+Between module 9 and module 10, there are 0 interactions:
+
+
+Between module 9 and module 11, there are 0 interactions:
+
+
+Between module 9 and module 12, there are 0 interactions:
+
+
+Between module 9 and module 13, there are 0 interactions:
+
+
+Between module 9 and module 14, there are 0 interactions:
+
+
+Between module 9 and module 15, there are 0 interactions:
+
+
+Between module 9 and module 16, there are 0 interactions:
+
+
+Between module 9 and module 17, there are 0 interactions:
+
+
+Between module 9 and module 18, there are 0 interactions:
+
+
+Between module 9 and module 19, there are 0 interactions:
+
+
+Between module 10 and module 1, there are 0 interactions:
+
+
+Between module 10 and module 2, there are 0 interactions:
+
+
+Between module 10 and module 3, there are 0 interactions:
+
+
+Between module 10 and module 4, there are 0 interactions:
+
+
+Between module 10 and module 5, there are 0 interactions:
+
+
+Between module 10 and module 6, there are 0 interactions:
+
+
+Between module 10 and module 7, there are 0 interactions:
+
+
+Between module 10 and module 8, there are 0 interactions:
+
+
+Between module 10 and module 9, there are 0 interactions:
+
+
+Inside module 10, there are 2 interactions:
+KHDRBS1	1	RBM39
+NCOA6	1	RBM39
+
+
+Between module 10 and module 11, there are 0 interactions:
+
+
+Between module 10 and module 12, there are 0 interactions:
+
+
+Between module 10 and module 13, there are 0 interactions:
+
+
+Between module 10 and module 14, there are 0 interactions:
+
+
+Between module 10 and module 15, there are 0 interactions:
+
+
+Between module 10 and module 16, there are 0 interactions:
+
+
+Between module 10 and module 17, there are 0 interactions:
+
+
+Between module 10 and module 18, there are 0 interactions:
+
+
+Between module 10 and module 19, there are 0 interactions:
+
+
+Between module 11 and module 1, there are 0 interactions:
+
+
+Between module 11 and module 2, there are 0 interactions:
+
+
+Between module 11 and module 3, there are 0 interactions:
+
+
+Between module 11 and module 4, there are 0 interactions:
+
+
+Between module 11 and module 5, there are 0 interactions:
+
+
+Between module 11 and module 6, there are 0 interactions:
+
+
+Between module 11 and module 7, there are 0 interactions:
+
+
+Between module 11 and module 8, there are 1 interactions:
+TUBA1A	1	NDN
+
+
+Between module 11 and module 9, there are 0 interactions:
+
+
+Between module 11 and module 10, there are 0 interactions:
+
+
+Inside module 11, there are 15 interactions:
+ACTN2	1	TUBA1A
+CSNK1E	1	PGK1
+GMEB2	1	NFKB1
+HDAC6	1	MAPT
+HDAC6	1	NFKB1
+HDAC6	1	TUBA1A
+HSPH1	1	PAFAH1B3
+HSPH1	1	PGK1
+HSPH1	1	TUBA1A
+MAGED1	1	PRKAA1
+MAGED1	1	TUBA1A
+MAPT	1	TUBA1A
+NEDD1	1	PRKAA1
+NFKB1	1	NFKB2
+S100A8	1	TUBA1A
+
+
+Between module 11 and module 12, there are 0 interactions:
+
+
+Between module 11 and module 13, there are 0 interactions:
+
+
+Between module 11 and module 14, there are 0 interactions:
+
+
+Between module 11 and module 15, there are 0 interactions:
+
+
+Between module 11 and module 16, there are 1 interactions:
+NEDD1	1	RRP1B
+
+
+Between module 11 and module 17, there are 0 interactions:
+
+
+Between module 11 and module 18, there are 0 interactions:
+
+
+Between module 11 and module 19, there are 0 interactions:
+
+
+Between module 12 and module 1, there are 0 interactions:
+
+
+Between module 12 and module 2, there are 0 interactions:
+
+
+Between module 12 and module 3, there are 0 interactions:
+
+
+Between module 12 and module 4, there are 0 interactions:
+
+
+Between module 12 and module 5, there are 0 interactions:
+
+
+Between module 12 and module 6, there are 0 interactions:
+
+
+Between module 12 and module 7, there are 0 interactions:
+
+
+Between module 12 and module 8, there are 1 interactions:
+NCL	1	POU5F1
+
+
+Between module 12 and module 9, there are 0 interactions:
+
+
+Between module 12 and module 10, there are 0 interactions:
+
+
+Between module 12 and module 11, there are 0 interactions:
+
+
+Inside module 12, there are 17 interactions:
+CUL3	1	KEAP1
+CUL3	1	NCL
+CUL3	1	NFE2L2
+EN1	1	JUN
+FOS	1	HHEX
+FOS	1	JUN
+FOS	1	JUND
+FOS	1	NFE2L2
+HHEX	1	JUN
+HOXA9	1	JUN
+JUN	1	MAP3K1
+JUND	1	NFE2L2
+KEAP1	1	NFE2L2
+MAFK	1	NFE2L2
+MAP2K7	1	MAP3K1
+MAP2K7	1	MAPK10
+NFE2L2	1	NRF1
+
+
+Between module 12 and module 13, there are 0 interactions:
+
+
+Between module 12 and module 14, there are 0 interactions:
+
+
+Between module 12 and module 15, there are 0 interactions:
+
+
+Between module 12 and module 16, there are 1 interactions:
+NCL	1	RRP1B
+
+
+Between module 12 and module 17, there are 0 interactions:
+
+
+Between module 12 and module 18, there are 0 interactions:
+
+
+Between module 12 and module 19, there are 1 interactions:
+MAP3K1	1	IKBKG
+
+
+Between module 13 and module 1, there are 0 interactions:
+
+
+Between module 13 and module 2, there are 0 interactions:
+
+
+Between module 13 and module 3, there are 0 interactions:
+
+
+Between module 13 and module 4, there are 0 interactions:
+
+
+Between module 13 and module 5, there are 0 interactions:
+
+
+Between module 13 and module 6, there are 0 interactions:
+
+
+Between module 13 and module 7, there are 0 interactions:
+
+
+Between module 13 and module 8, there are 0 interactions:
+
+
+Between module 13 and module 9, there are 0 interactions:
+
+
+Between module 13 and module 10, there are 0 interactions:
+
+
+Between module 13 and module 11, there are 0 interactions:
+
+
+Between module 13 and module 12, there are 0 interactions:
+
+
+Inside module 13, there are 1 interactions:
+HGS	1	IL6ST
+
+
+Between module 13 and module 14, there are 0 interactions:
+
+
+Between module 13 and module 15, there are 0 interactions:
+
+
+Between module 13 and module 16, there are 0 interactions:
+
+
+Between module 13 and module 17, there are 0 interactions:
+
+
+Between module 13 and module 18, there are 0 interactions:
+
+
+Between module 13 and module 19, there are 0 interactions:
+
+
+Between module 14 and module 1, there are 0 interactions:
+
+
+Between module 14 and module 2, there are 0 interactions:
+
+
+Between module 14 and module 3, there are 0 interactions:
+
+
+Between module 14 and module 4, there are 0 interactions:
+
+
+Between module 14 and module 5, there are 0 interactions:
+
+
+Between module 14 and module 6, there are 0 interactions:
+
+
+Between module 14 and module 7, there are 0 interactions:
+
+
+Between module 14 and module 8, there are 1 interactions:
+NRIP1	1	CTBP1
+
+
+Between module 14 and module 9, there are 0 interactions:
+
+
+Between module 14 and module 10, there are 0 interactions:
+
+
+Between module 14 and module 11, there are 0 interactions:
+
+
+Between module 14 and module 12, there are 0 interactions:
+
+
+Between module 14 and module 13, there are 0 interactions:
+
+
+Inside module 14, there are 15 interactions:
+CD3E	1	PTPN6
+EP300	1	HIF1A
+EP300	1	KAT2A
+EP300	1	KAT2B
+EP300	1	NCOA1
+KAT2A	1	MYC
+KAT2B	1	SMAD1
+NCOA1	1	NCOA3
+NCOA1	1	NRIP1
+NCOA2	1	NRIP1
+NCOA3	1	NRIP1
+NCOA3	1	PRDX5
+NCOA3	1	PTPN6
+NCOA3	1	SAP18
+NCOR1	1	NRIP1
+
+
+Between module 14 and module 15, there are 0 interactions:
+
+
+Between module 14 and module 16, there are 0 interactions:
+
+
+Between module 14 and module 17, there are 0 interactions:
+
+
+Between module 14 and module 18, there are 0 interactions:
+
+
+Between module 14 and module 19, there are 1 interactions:
+NCOA3	1	IKBKG
+
+
+Between module 15 and module 1, there are 0 interactions:
+
+
+Between module 15 and module 2, there are 0 interactions:
+
+
+Between module 15 and module 3, there are 0 interactions:
+
+
+Between module 15 and module 4, there are 0 interactions:
+
+
+Between module 15 and module 5, there are 0 interactions:
+
+
+Between module 15 and module 6, there are 0 interactions:
+
+
+Between module 15 and module 7, there are 0 interactions:
+
+
+Between module 15 and module 8, there are 0 interactions:
+
+
+Between module 15 and module 9, there are 0 interactions:
+
+
+Between module 15 and module 10, there are 0 interactions:
+
+
+Between module 15 and module 11, there are 0 interactions:
+
+
+Between module 15 and module 12, there are 0 interactions:
+
+
+Between module 15 and module 13, there are 0 interactions:
+
+
+Between module 15 and module 14, there are 0 interactions:
+
+
+Inside module 15, there are 1 interactions:
+MAP3K5	1	RB1CC1
+
+
+Between module 15 and module 16, there are 0 interactions:
+
+
+Between module 15 and module 17, there are 0 interactions:
+
+
+Between module 15 and module 18, there are 0 interactions:
+
+
+Between module 15 and module 19, there are 0 interactions:
+
+
+Between module 16 and module 1, there are 0 interactions:
+
+
+Between module 16 and module 2, there are 1 interactions:
+RRP1B	1	LUC7L2
+
+
+Between module 16 and module 3, there are 0 interactions:
+
+
+Between module 16 and module 4, there are 0 interactions:
+
+
+Between module 16 and module 5, there are 0 interactions:
+
+
+Between module 16 and module 6, there are 0 interactions:
+
+
+Between module 16 and module 7, there are 0 interactions:
+
+
+Between module 16 and module 8, there are 3 interactions:
+DDX47	1	POU5F1
+ILF3	1	POU5F1
+PARP1	1	POU5F1
+
+
+Between module 16 and module 9, there are 0 interactions:
+
+
+Between module 16 and module 10, there are 0 interactions:
+
+
+Between module 16 and module 11, there are 1 interactions:
+RRP1B	1	NEDD1
+
+
+Between module 16 and module 12, there are 1 interactions:
+RRP1B	1	NCL
+
+
+Between module 16 and module 13, there are 0 interactions:
+
+
+Between module 16 and module 14, there are 0 interactions:
+
+
+Between module 16 and module 15, there are 0 interactions:
+
+
+Inside module 16, there are 14 interactions:
+CDCA8	1	RRP1B
+CSDA	1	RRP1B
+DDX21	1	RRP1B
+DDX47	1	RRP1B
+IGKC	1	RRP1B
+IGKV2-40	1	RRP1B
+ILF3	1	RRP1B
+LRRC59	1	RRP1B
+LUC7L3	1	RRP1B
+LYAR	1	RRP1B
+MKI67	1	RRP1B
+PARP1	1	PARP2
+PARP1	1	RRP1B
+PRKAR1A	1	RRP1B
+
+
+Between module 16 and module 17, there are 0 interactions:
+
+
+Between module 16 and module 18, there are 0 interactions:
+
+
+Between module 16 and module 19, there are 0 interactions:
+
+
+Between module 17 and module 1, there are 0 interactions:
+
+
+Between module 17 and module 2, there are 1 interactions:
+MAPK1	1	RPS6KB1
+
+
+Between module 17 and module 3, there are 0 interactions:
+
+
+Between module 17 and module 4, there are 0 interactions:
+
+
+Between module 17 and module 5, there are 0 interactions:
+
+
+Between module 17 and module 6, there are 0 interactions:
+
+
+Between module 17 and module 7, there are 0 interactions:
+
+
+Between module 17 and module 8, there are 0 interactions:
+
+
+Between module 17 and module 9, there are 0 interactions:
+
+
+Between module 17 and module 10, there are 0 interactions:
+
+
+Between module 17 and module 11, there are 0 interactions:
+
+
+Between module 17 and module 12, there are 0 interactions:
+
+
+Between module 17 and module 13, there are 0 interactions:
+
+
+Between module 17 and module 14, there are 0 interactions:
+
+
+Between module 17 and module 15, there are 0 interactions:
+
+
+Between module 17 and module 16, there are 0 interactions:
+
+
+Inside module 17, there are 14 interactions:
+AP2B1	1	DLG4
+BCL9L	1	DLG4
+DLG4	1	GIT2
+DLG4	1	INADL
+DLG4	1	JAK1
+DLG4	1	KIF1A
+DLG4	1	MAPK1
+DLG4	1	PMPCA
+EIF4EBP1	1	MAPK1
+GIT1	1	PXN
+INADL	1	KCNJ10
+INADL	1	KCNJ15
+KLF11	1	MAPK1
+MAPK1	1	PXN
+
+
+Between module 17 and module 18, there are 2 interactions:
+AP2B1	1	EPS15
+DLG4	1	MAPK14
+
+
+Between module 17 and module 19, there are 0 interactions:
+
+
+Between module 18 and module 1, there are 0 interactions:
+
+
+Between module 18 and module 2, there are 1 interactions:
+MAPK14	1	RPS6KB1
+
+
+Between module 18 and module 3, there are 0 interactions:
+
+
+Between module 18 and module 4, there are 0 interactions:
+
+
+Between module 18 and module 5, there are 0 interactions:
+
+
+Between module 18 and module 6, there are 0 interactions:
+
+
+Between module 18 and module 7, there are 0 interactions:
+
+
+Between module 18 and module 8, there are 0 interactions:
+
+
+Between module 18 and module 9, there are 0 interactions:
+
+
+Between module 18 and module 10, there are 0 interactions:
+
+
+Between module 18 and module 11, there are 0 interactions:
+
+
+Between module 18 and module 12, there are 0 interactions:
+
+
+Between module 18 and module 13, there are 0 interactions:
+
+
+Between module 18 and module 14, there are 0 interactions:
+
+
+Between module 18 and module 15, there are 0 interactions:
+
+
+Between module 18 and module 16, there are 0 interactions:
+
+
+Between module 18 and module 17, there are 2 interactions:
+EPS15	1	AP2B1
+MAPK14	1	DLG4
+
+
+Inside module 18, there are 13 interactions:
+BECN1	1	ITSN1
+CDC40	1	EPS15
+CDC40	1	EPS15L1
+EGFR	1	EPS15
+EGFR	1	JAK2
+EGFR	1	MAPK14
+EPN2	1	EPS15
+EPN2	1	EPS15L1
+EPN2	1	ITSN1
+EPS15	1	ITSN1
+EPS15L1	1	ITSN1
+JAK2	1	KIT
+MAP2K3	1	MAPK14
+
+
+Between module 18 and module 19, there are 1 interactions:
+MAPK14	1	MAP2K6
+
+
+Between module 19 and module 1, there are 0 interactions:
+
+
+Between module 19 and module 2, there are 0 interactions:
+
+
+Between module 19 and module 3, there are 0 interactions:
+
+
+Between module 19 and module 4, there are 0 interactions:
+
+
+Between module 19 and module 5, there are 0 interactions:
+
+
+Between module 19 and module 6, there are 0 interactions:
+
+
+Between module 19 and module 7, there are 0 interactions:
+
+
+Between module 19 and module 8, there are 0 interactions:
+
+
+Between module 19 and module 9, there are 0 interactions:
+
+
+Between module 19 and module 10, there are 0 interactions:
+
+
+Between module 19 and module 11, there are 0 interactions:
+
+
+Between module 19 and module 12, there are 1 interactions:
+IKBKG	1	MAP3K1
+
+
+Between module 19 and module 13, there are 0 interactions:
+
+
+Between module 19 and module 14, there are 1 interactions:
+IKBKG	1	NCOA3
+
+
+Between module 19 and module 15, there are 0 interactions:
+
+
+Between module 19 and module 16, there are 0 interactions:
+
+
+Between module 19 and module 17, there are 0 interactions:
+
+
+Between module 19 and module 18, there are 1 interactions:
+MAP2K6	1	MAPK14
+
+
+Inside module 19, there are 9 interactions:
+IKBKB	1	IKBKG
+IKBKB	1	RBCK1
+IKBKG	1	MAP3K7
+IKBKG	1	RBCK1
+IL1R2	1	IL1RAP
+IL1RAP	1	MYD88
+MAP2K6	1	MAP3K7
+MAP3K7	1	MYD88
+MYD88	1	TUBB5
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><graph xmlns:cy="http://www.cytoscape.org" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" directed="0" label="ModeulRole details graph" xmlns="http://www.cs.rpi.edu/XGMML">
+  <att cy:hidden="1" name="layoutAlgorithm" type="string" value="Circular Layout"/>
+  <node id="1" label="NCOA1">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="2" label="NCOA3">
+    <att name="module" type="string" value="1"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#336600" outline="#336600" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="3" label="KEAP1">
+    <att name="module" type="string" value="2"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#003399" outline="#003399" size="20.0" type="Ellipse"/>
+  </node>
+  <node id="4" label="NFE2L2">
+    <att name="module" type="string" value="2"/>
+    <att name="role" type="string" value="1"/>
+    <att name="size" type="integer" value="25"/>
+    <graphics fill="#003399" outline="#003399" size="20.0" type="Ellipse"/>
+  </node>
+  <edge label="NCOA1-NCOA3" source="1" target="2">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#336600" width="2.8284271247461903"/>
+  </edge>
+  <edge label="KEAP1-NFE2L2" source="3" target="4">
+    <att name="weight" type="integer" value="2"/>
+    <graphics fill="#003399" width="2.8284271247461903"/>
+  </edge>
+</graph>

@@ -1,0 +1,121 @@
+This is total amount of interactions in the GROUP formed by proteins given by user. 
+
+In the following, GROUP is defined by all proteins given by user:
+
+
+For protein AKT1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	AKT2	
+
+For protein CDC42: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	NPHS1	
+
+For protein CDH2: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	LRP5	LRP6	
+
+For protein CSNK1E: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	DVL1	
+
+For protein EGFR: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	BTC	PLA2G2A	
+
+For protein EN1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	DKK1	
+
+For protein FBXW7: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	PTEN	
+
+For protein HTT: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	NUB1	SYVN1	
+
+For protein IKBKB: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	CITED2	UL37	
+
+For protein JUN: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	APC	SENP2	
+
+For protein KEAP1: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	NFE2L2	
+Links outside:	ATG7	
+
+For protein MAP3K1: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	AXIN1	ECSIT	
+
+For protein MAP3K7: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	TNFRSF1A	UL37	
+
+For protein MYC: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	APC	EIF4E	
+
+For protein MYD88: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	APC	CITED2	
+
+For protein NBN: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	TRP53BP1	
+
+For protein NCOA1: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	NCOA3	
+Links outside:	THRB	
+
+For protein NCOA2: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	SNW1	
+
+For protein NCOA3: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	NCOA1	
+Links outside:	TIA1	
+
+For protein NDN: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	E2F1	E2F4	
+
+For protein NFE2L2: 1 links inside the GROUP, and 1 links outside the GROUP:
+Links inside:	KEAP1	
+Links outside:	ATG7	
+
+For protein NFKB1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	REL	
+
+For protein PAK1IP1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	AGRN	
+
+For protein PARP1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	BRCA1	
+
+For protein PAX3: 0 links inside the GROUP, and 4 links outside the GROUP:
+Links outside:	CIB1	CTNNB1	MITF	SOX10	
+
+For protein PRKAA1: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	MARK4	
+
+For protein RAC1: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	NPHS1	PTPLAD1	
+
+For protein RBPJ: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	PTF1A	TNFRSF11A	
+
+For protein SAP18: 0 links inside the GROUP, and 3 links outside the GROUP:
+Links outside:	SHH	SIN3A	SUFU	
+
+For protein TIMELESS: 0 links inside the GROUP, and 1 links outside the GROUP:
+Links outside:	CLOCK	
+
+For protein XRCC5: 0 links inside the GROUP, and 2 links outside the GROUP:
+Links outside:	TERF1	TERF2	
+
+For all proteins in the GROUP, there are 4 links inside the GROUP, 
+  and 49 links outside the GROUP. 
+
+***********************************************************************
+
+We are only interested in the proteins which have links INSIDE the GROUP given by user:
+
+
+For protein KEAP1: 1 links inside the GROUP:
+Links inside:	NFE2L2	
+
+For protein NCOA1: 1 links inside the GROUP:
+Links inside:	NCOA3	
+
+For protein NCOA3: 1 links inside the GROUP:
+Links inside:	NCOA1	
+
+For protein NFE2L2: 1 links inside the GROUP:
+Links inside:	KEAP1	

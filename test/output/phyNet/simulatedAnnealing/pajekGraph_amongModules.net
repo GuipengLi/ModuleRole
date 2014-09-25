@@ -1,0 +1,33 @@
+*Vertices 19
+1 "module1" 0.0 0.0 0.0 ellipse x_fact 22 y_fact 22 fos 60 ic Cyan bc Black
+2 "module2" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic Yellow bc Black
+3 "module3" 0.0 0.0 0.0 ellipse x_fact 14 y_fact 14 fos 60 ic LimeGreen bc Black
+4 "module4" 0.0 0.0 0.0 ellipse x_fact 6 y_fact 6 fos 60 ic Red bc Black
+5 "module5" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic Blue bc Black
+6 "module6" 0.0 0.0 0.0 ellipse x_fact 3 y_fact 3 fos 60 ic Pink bc Black
+7 "module7" 0.0 0.0 0.0 ellipse x_fact 5 y_fact 5 fos 60 ic White bc Black
+8 "module8" 0.0 0.0 0.0 ellipse x_fact 16 y_fact 16 fos 60 ic Orange bc Black
+9 "module9" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic Purple bc Black
+10 "module10" 0.0 0.0 0.0 ellipse x_fact 23 y_fact 23 fos 60 ic CadetBlue bc Black
+11 "module11" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic TealBlue bc Black
+12 "module12" 0.0 0.0 0.0 ellipse x_fact 10 y_fact 10 fos 60 ic OliveGreen bc Black
+13 "module13" 0.0 0.0 0.0 ellipse x_fact 10 y_fact 10 fos 60 ic Gray bc Black
+14 "module14" 0.0 0.0 0.0 ellipse x_fact 7 y_fact 7 fos 60 ic Black bc Black
+15 "module15" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic Maroon bc Black
+16 "module16" 0.0 0.0 0.0 ellipse x_fact 15 y_fact 15 fos 60 ic LightGreen bc Black
+17 "module17" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic LightYellow bc Black
+18 "module18" 0.0 0.0 0.0 ellipse x_fact 2 y_fact 2 fos 60 ic Magenta bc Black
+19 "module19" 0.0 0.0 0.0 ellipse x_fact 15 y_fact 15 fos 60 ic MidnightBlue bc Black
+*Edges
+1 3 1  c Red
+1 10 1  c Red
+1 14 2  c Red
+3 13 1  c Red
+3 19 1  c Red
+8 10 4  c Red
+8 16 1  c Red
+8 19 1  c Red
+10 12 3  c Red
+10 19 1  c Red
+12 13 1  c Red
+12 16 1  c Red

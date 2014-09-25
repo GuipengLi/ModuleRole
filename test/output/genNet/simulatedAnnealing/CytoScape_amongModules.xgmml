@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><graph xmlns:cy="http://www.cytoscape.org" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" directed="0" label="ModeulRole among modules graph " xmlns="http://www.cs.rpi.edu/XGMML">
+  <node id="1" label="module1">
+    <att name="module" type="string" value="module1"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#336600" outline="#336600" size="6.0" type="Ellipse"/>
+  </node>
+  <node id="2" label="module2">
+    <att name="module" type="string" value="module2"/>
+    <att name="role" type="string" value="null"/>
+    <att name="size" type="integer" value="2"/>
+    <graphics fill="#003399" outline="#003399" size="6.0" type="Ellipse"/>
+  </node>
+</graph>

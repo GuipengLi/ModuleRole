@@ -1,0 +1,5 @@
+ProteinName	degreeNB	ZScore	ParticipationCoefficient
+KEAP1	1	0.0	0.0
+NFE2L2	1	0.0	0.0
+NCOA1	1	0.0	0.0
+NCOA3	1	0.0	0.0

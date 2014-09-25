@@ -1,0 +1,502 @@
+*Vertices 160
+1/BCL9L/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+2/DLG4/ 0.0 0.0 0.0 box x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+3/EGFR/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Cyan bc Black
+4/EIF4EBP1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+5/GIT1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+6/GIT2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+7/INADL/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+8/JAK1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+9/JAK2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+10/KCNJ10/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+11/KCNJ15/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+12/KIF1A/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+13/KIT/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+14/KLF11/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+15/MAP2K3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+16/MAPK1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+17/MAPK14/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Cyan bc Black
+18/MAPK9/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+19/PMPCA/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+20/PXN/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+21/RPS6KB1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+22/RPTOR/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Cyan bc Black
+23/ANAPC5/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+24/BCR/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+25/CDC20/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+26/CUL2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+27/DDB1/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic CadetBlue bc Black
+28/GFAP/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+29/HDAC5/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+30/HDAC7/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+31/HDGF/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+32/HIRA/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+33/HTT/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic CadetBlue bc Black
+34/NCOR2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+35/NEDD4/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+36/PAX3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+37/POU5F1/ 0.0 0.0 0.0 diamond x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+38/RAC1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+39/RBPJ/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+40/SAE1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+41/SALL1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+42/SAP30BP/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+43/SCNN1B/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+44/SCNN1G/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+45/XRCC5/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic CadetBlue bc Black
+46/IFRD1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic TealBlue bc Black
+47/SAP30/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic TealBlue bc Black
+48/CDH2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic OliveGreen bc Black
+49/CTBP1/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic OliveGreen bc Black
+50/CTBP2/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic OliveGreen bc Black
+51/HIC1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic OliveGreen bc Black
+52/HIPK2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic OliveGreen bc Black
+53/IKZF1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic OliveGreen bc Black
+54/IKZF3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic OliveGreen bc Black
+55/IKZF4/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic OliveGreen bc Black
+56/NDN/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic OliveGreen bc Black
+57/PML/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic OliveGreen bc Black
+58/EP300/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+59/HIF1A/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+60/KAT2A/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+61/KAT2B/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+62/MYC/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+63/NCOA1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+64/NCOA2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+65/NCOR1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+66/NRIP1/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Gray bc Black
+67/SMAD1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Gray bc Black
+68/AP2B1/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Black bc Black
+69/BECN1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Black bc Black
+70/CDC40/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Black bc Black
+71/EPN2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Black bc Black
+72/EPS15/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Black bc Black
+73/EPS15L1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Black bc Black
+74/ITSN1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Black bc Black
+75/ID3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Maroon bc Black
+76/ID4/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Maroon bc Black
+77/ACTN2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+78/CSNK1E/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+79/GMEB2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+80/HDAC6/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+81/HSPH1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+82/MAGED1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+83/MAPT/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+84/NEDD1/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic LightGreen bc Black
+85/NFKB1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+86/NFKB2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+87/PAFAH1B3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+88/PGK1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+89/PRKAA1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+90/S100A8/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+91/TUBA1A/ 0.0 0.0 0.0 box x_fact 5 y_fact 5 fos 30 lp 19  ic LightGreen bc Black
+92/IGBP1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightYellow bc Black
+93/MID2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LightYellow bc Black
+94/HES1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Magenta bc Black
+95/HES6/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Magenta bc Black
+96/CUL3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+97/EN1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+98/FOS/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+99/HHEX/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+100/HOXA9/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+101/JUN/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+102/JUND/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+103/KEAP1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+104/MAFK/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+105/MAP2K7/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+106/MAP3K1/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic MidnightBlue bc Black
+107/MAPK10/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+108/NCL/ 0.0 0.0 0.0 triangle x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+109/NFE2L2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+110/NRF1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic MidnightBlue bc Black
+111/HGS/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Yellow bc Black
+112/IL6ST/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Yellow bc Black
+113/CD3E/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+114/IKBKB/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+115/IKBKG/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic LimeGreen bc Black
+116/IL1R2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+117/IL1RAP/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+118/MAP2K6/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic LimeGreen bc Black
+119/MAP3K7/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+120/MYD88/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+121/NCOA3/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic LimeGreen bc Black
+122/PRDX5/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+123/PTPN6/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+124/RBCK1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+125/SAP18/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+126/TUBB5/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic LimeGreen bc Black
+127/CDC42/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Red bc Black
+128/DIAP3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Red bc Black
+129/KIN/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Red bc Black
+130/MAGI1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Red bc Black
+131/NET1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Red bc Black
+132/PAK3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Red bc Black
+133/PARD3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Blue bc Black
+134/PARD6A/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Blue bc Black
+135/KHDRBS1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Pink bc Black
+136/NCOA6/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Pink bc Black
+137/RBM39/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Pink bc Black
+138/CDK2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic White bc Black
+139/GATA1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic White bc Black
+140/MYBL2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic White bc Black
+141/PURA/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic White bc Black
+142/RB1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic White bc Black
+143/CDCA8/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+144/CSDA/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+145/DDX21/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+146/DDX47/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Orange bc Black
+147/IGKC/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+148/IGKV2-40/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+149/ILF3/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Orange bc Black
+150/LRRC59/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+151/LUC7L2/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Orange bc Black
+152/LUC7L3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+153/LYAR/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+154/MKI67/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+155/PARP1/ 0.0 0.0 0.0  ellipse x_fact 6 y_fact 3 fos 30 ic Orange bc Black
+156/PARP2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+157/PRKAR1A/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+158/RRP1B/ 0.0 0.0 0.0 box x_fact 5 y_fact 5 fos 30 lp 19  ic Orange bc Black
+159/MAP3K5/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Purple bc Black
+160/RB1CC1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Purple bc Black
+*Edges
+1 2 2 c Cyan
+2 1 2 c Cyan
+2 6 2 c Cyan
+2 7 2 c Cyan
+2 8 2 c Cyan
+2 12 2 c Cyan
+2 16 2 c Cyan
+2 17 2 c Cyan
+2 19 2 c Cyan
+2 68 1 c Cyan p Solid
+3 9 2 c Cyan
+3 17 2 c Cyan
+3 72 1 c Cyan p Solid
+4 16 2 c Cyan
+5 20 2 c Cyan
+6 2 2 c Cyan
+7 2 2 c Cyan
+7 10 2 c Cyan
+7 11 2 c Cyan
+8 2 2 c Cyan
+9 3 2 c Cyan
+9 13 2 c Cyan
+10 7 2 c Cyan
+11 7 2 c Cyan
+12 2 2 c Cyan
+13 9 2 c Cyan
+14 16 2 c Cyan
+15 17 2 c Cyan
+16 2 2 c Cyan
+16 4 2 c Cyan
+16 14 2 c Cyan
+16 20 2 c Cyan
+16 21 2 c Cyan
+17 2 2 c Cyan
+17 3 2 c Cyan
+17 15 2 c Cyan
+17 21 2 c Cyan
+17 118 1 c Cyan p Solid
+18 21 2 c Cyan
+19 2 2 c Cyan
+20 5 2 c Cyan
+20 16 2 c Cyan
+21 16 2 c Cyan
+21 17 2 c Cyan
+21 18 2 c Cyan
+21 22 2 c Cyan
+22 21 2 c Cyan
+22 27 1 c Cyan p Solid
+23 25 2 c CadetBlue
+24 38 2 c CadetBlue
+25 23 2 c CadetBlue
+25 37 2 c CadetBlue
+26 33 2 c CadetBlue
+27 33 2 c CadetBlue
+27 37 2 c CadetBlue
+27 22 1 c CadetBlue p Solid
+28 33 2 c CadetBlue
+28 37 2 c CadetBlue
+29 34 2 c CadetBlue
+30 34 2 c CadetBlue
+31 37 2 c CadetBlue
+32 36 2 c CadetBlue
+32 37 2 c CadetBlue
+33 26 2 c CadetBlue
+33 27 2 c CadetBlue
+33 28 2 c CadetBlue
+33 38 2 c CadetBlue
+33 151 1 c CadetBlue p Solid
+34 29 2 c CadetBlue
+34 30 2 c CadetBlue
+34 37 2 c CadetBlue
+35 37 2 c CadetBlue
+35 43 2 c CadetBlue
+35 44 2 c CadetBlue
+36 32 2 c CadetBlue
+37 25 2 c CadetBlue
+37 27 2 c CadetBlue
+37 28 2 c CadetBlue
+37 31 2 c CadetBlue
+37 32 2 c CadetBlue
+37 34 2 c CadetBlue
+37 35 2 c CadetBlue
+37 39 2 c CadetBlue
+37 40 2 c CadetBlue
+37 41 2 c CadetBlue
+37 42 2 c CadetBlue
+37 45 2 c CadetBlue
+37 49 1 c CadetBlue p Solid
+37 50 1 c CadetBlue p Solid
+37 146 1 c CadetBlue p Solid
+37 149 1 c CadetBlue p Solid
+37 108 1 c CadetBlue p Solid
+37 155 1 c CadetBlue p Solid
+37 57 1 c CadetBlue p Solid
+38 24 2 c CadetBlue
+38 33 2 c CadetBlue
+39 37 2 c CadetBlue
+40 37 2 c CadetBlue
+41 37 2 c CadetBlue
+42 37 2 c CadetBlue
+43 35 2 c CadetBlue
+44 35 2 c CadetBlue
+45 37 2 c CadetBlue
+46 47 2 c TealBlue
+47 46 2 c TealBlue
+48 56 2 c OliveGreen
+49 50 2 c OliveGreen
+49 51 2 c OliveGreen
+49 53 2 c OliveGreen
+49 55 2 c OliveGreen
+49 66 1 c OliveGreen p Solid
+49 37 1 c OliveGreen p Solid
+50 49 2 c OliveGreen
+50 52 2 c OliveGreen
+50 53 2 c OliveGreen
+50 56 2 c OliveGreen
+50 37 1 c OliveGreen p Solid
+51 49 2 c OliveGreen
+52 50 2 c OliveGreen
+52 57 2 c OliveGreen
+53 49 2 c OliveGreen
+53 50 2 c OliveGreen
+53 54 2 c OliveGreen
+54 53 2 c OliveGreen
+55 49 2 c OliveGreen
+56 48 2 c OliveGreen
+56 50 2 c OliveGreen
+56 91 1 c OliveGreen p Solid
+57 52 2 c OliveGreen
+57 37 1 c OliveGreen p Solid
+58 59 2 c Gray
+58 60 2 c Gray
+58 61 2 c Gray
+58 63 2 c Gray
+59 58 2 c Gray
+60 58 2 c Gray
+60 62 2 c Gray
+61 58 2 c Gray
+61 67 2 c Gray
+62 60 2 c Gray
+63 58 2 c Gray
+63 66 2 c Gray
+64 66 2 c Gray
+65 66 2 c Gray
+66 63 2 c Gray
+66 64 2 c Gray
+66 65 2 c Gray
+66 49 1 c Gray p Solid
+66 121 1 c Gray p Solid
+67 61 2 c Gray
+68 72 2 c Black
+68 2 1 c Black p Solid
+69 74 2 c Black
+70 72 2 c Black
+70 73 2 c Black
+71 72 2 c Black
+71 73 2 c Black
+71 74 2 c Black
+72 68 2 c Black
+72 70 2 c Black
+72 71 2 c Black
+72 74 2 c Black
+72 3 1 c Black p Solid
+73 70 2 c Black
+73 71 2 c Black
+73 74 2 c Black
+74 69 2 c Black
+74 71 2 c Black
+74 72 2 c Black
+74 73 2 c Black
+75 76 2 c Maroon
+76 75 2 c Maroon
+77 91 2 c LightGreen
+78 88 2 c LightGreen
+79 85 2 c LightGreen
+80 83 2 c LightGreen
+80 85 2 c LightGreen
+80 91 2 c LightGreen
+81 87 2 c LightGreen
+81 88 2 c LightGreen
+81 91 2 c LightGreen
+82 89 2 c LightGreen
+82 91 2 c LightGreen
+83 80 2 c LightGreen
+83 91 2 c LightGreen
+84 89 2 c LightGreen
+84 158 1 c LightGreen p Solid
+85 79 2 c LightGreen
+85 80 2 c LightGreen
+85 86 2 c LightGreen
+86 85 2 c LightGreen
+87 81 2 c LightGreen
+88 78 2 c LightGreen
+88 81 2 c LightGreen
+89 82 2 c LightGreen
+89 84 2 c LightGreen
+90 91 2 c LightGreen
+91 77 2 c LightGreen
+91 80 2 c LightGreen
+91 81 2 c LightGreen
+91 82 2 c LightGreen
+91 83 2 c LightGreen
+91 90 2 c LightGreen
+91 56 1 c LightGreen p Solid
+92 93 2 c LightYellow
+93 92 2 c LightYellow
+94 95 2 c Magenta
+95 94 2 c Magenta
+96 103 2 c MidnightBlue
+96 108 2 c MidnightBlue
+96 109 2 c MidnightBlue
+97 101 2 c MidnightBlue
+98 99 2 c MidnightBlue
+98 101 2 c MidnightBlue
+98 102 2 c MidnightBlue
+98 109 2 c MidnightBlue
+99 98 2 c MidnightBlue
+99 101 2 c MidnightBlue
+100 101 2 c MidnightBlue
+101 97 2 c MidnightBlue
+101 98 2 c MidnightBlue
+101 99 2 c MidnightBlue
+101 100 2 c MidnightBlue
+101 106 2 c MidnightBlue
+102 98 2 c MidnightBlue
+102 109 2 c MidnightBlue
+103 96 2 c MidnightBlue
+103 109 2 c MidnightBlue
+104 109 2 c MidnightBlue
+105 106 2 c MidnightBlue
+105 107 2 c MidnightBlue
+106 101 2 c MidnightBlue
+106 105 2 c MidnightBlue
+106 115 1 c MidnightBlue p Solid
+107 105 2 c MidnightBlue
+108 96 2 c MidnightBlue
+108 37 1 c MidnightBlue p Solid
+108 158 1 c MidnightBlue p Solid
+109 96 2 c MidnightBlue
+109 98 2 c MidnightBlue
+109 102 2 c MidnightBlue
+109 103 2 c MidnightBlue
+109 104 2 c MidnightBlue
+109 110 2 c MidnightBlue
+110 109 2 c MidnightBlue
+111 112 2 c Yellow
+112 111 2 c Yellow
+113 123 2 c LimeGreen
+114 115 2 c LimeGreen
+114 124 2 c LimeGreen
+115 114 2 c LimeGreen
+115 119 2 c LimeGreen
+115 121 2 c LimeGreen
+115 124 2 c LimeGreen
+115 106 1 c LimeGreen p Solid
+116 117 2 c LimeGreen
+117 116 2 c LimeGreen
+117 120 2 c LimeGreen
+118 119 2 c LimeGreen
+118 17 1 c LimeGreen p Solid
+119 115 2 c LimeGreen
+119 118 2 c LimeGreen
+119 120 2 c LimeGreen
+120 117 2 c LimeGreen
+120 119 2 c LimeGreen
+120 126 2 c LimeGreen
+121 115 2 c LimeGreen
+121 122 2 c LimeGreen
+121 123 2 c LimeGreen
+121 125 2 c LimeGreen
+121 66 1 c LimeGreen p Solid
+122 121 2 c LimeGreen
+123 113 2 c LimeGreen
+123 121 2 c LimeGreen
+124 114 2 c LimeGreen
+124 115 2 c LimeGreen
+125 121 2 c LimeGreen
+126 120 2 c LimeGreen
+127 128 2 c Red
+127 129 2 c Red
+127 131 2 c Red
+127 132 2 c Red
+128 127 2 c Red
+129 127 2 c Red
+130 131 2 c Red
+131 127 2 c Red
+131 130 2 c Red
+132 127 2 c Red
+133 134 2 c Blue
+134 133 2 c Blue
+135 137 2 c Pink
+136 137 2 c Pink
+137 135 2 c Pink
+137 136 2 c Pink
+138 140 2 c White
+138 141 2 c White
+138 142 2 c White
+139 142 2 c White
+140 138 2 c White
+141 138 2 c White
+142 138 2 c White
+142 139 2 c White
+143 158 2 c Orange
+144 158 2 c Orange
+145 158 2 c Orange
+146 158 2 c Orange
+146 37 1 c Orange p Solid
+147 158 2 c Orange
+148 158 2 c Orange
+149 158 2 c Orange
+149 37 1 c Orange p Solid
+150 158 2 c Orange
+151 158 2 c Orange
+151 33 1 c Orange p Solid
+152 158 2 c Orange
+153 158 2 c Orange
+154 158 2 c Orange
+155 156 2 c Orange
+155 158 2 c Orange
+155 37 1 c Orange p Solid
+156 155 2 c Orange
+157 158 2 c Orange
+158 143 2 c Orange
+158 144 2 c Orange
+158 145 2 c Orange
+158 146 2 c Orange
+158 147 2 c Orange
+158 148 2 c Orange
+158 149 2 c Orange
+158 150 2 c Orange
+158 151 2 c Orange
+158 152 2 c Orange
+158 153 2 c Orange
+158 154 2 c Orange
+158 155 2 c Orange
+158 157 2 c Orange
+158 108 1 c Orange p Solid
+158 84 1 c Orange p Solid
+159 160 2 c Purple
+160 159 2 c Purple

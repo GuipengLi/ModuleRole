@@ -1,0 +1,9 @@
+Module ID:	11
+Nodes Number in this module:	15
+Total Link Number in this module:	17
+Within-Module link Number in this module:	15
+The Number of links from this module to other modules:	2
+The following are the proteins in this module:
+ACTN2	CSNK1E	GMEB2	HDAC6	HSPH1	MAGED1	MAPT	NEDD1	NFKB1	NFKB2	PAFAH1B3	PGK1	PRKAA1	S100A8	TUBA1A
+
+

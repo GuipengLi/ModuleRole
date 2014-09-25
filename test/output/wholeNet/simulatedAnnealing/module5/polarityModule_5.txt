@@ -1,0 +1,9 @@
+Module ID:	5
+Nodes Number in this module:	5
+Total Link Number in this module:	4
+Within-Module link Number in this module:	4
+The Number of links from this module to other modules:	0
+The following are the proteins in this module:
+CDK2	GATA1	MYBL2	PURA	RB1
+
+

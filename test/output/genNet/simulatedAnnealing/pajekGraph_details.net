@@ -1,0 +1,10 @@
+*Vertices 4
+1/NCOA1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+2/NCOA3/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Cyan bc Black
+3/KEAP1/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Yellow bc Black
+4/NFE2L2/ 0.0 0.0 0.0 cross x_fact 5 y_fact 5 fos 30 lp 19  ic Yellow bc Black
+*Edges
+1 2 2 c Cyan
+2 1 2 c Cyan
+3 4 2 c Yellow
+4 3 2 c Yellow

@@ -1,0 +1,5 @@
+The user has input 270 validated proteins totally.
+But only 4 proteins have genetic interactions in the database file which the user have chosen.
+In total,there are 2 protein-protein interactions in the genetic network.
+There are 2 modules detected in the genetic network with modularity 0.500000 .
+Detailed protein information can be found in the directory named simulatedAnnealing.

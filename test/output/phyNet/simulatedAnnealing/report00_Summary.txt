@@ -1,0 +1,5 @@
+The user has input 270 validated proteins totally.
+But only 160 proteins have physical interactions in the database file which the user have chosen.
+In total,there are 170 protein-protein interactions in the physical network.
+There are 19 modules detected in the physical network with modularity 0.793668 .
+Detailed protein information can be found in the directory named simulatedAnnealing.
