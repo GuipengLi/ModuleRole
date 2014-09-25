@@ -25,7 +25,7 @@ Download ModuleRoleV1.3.1_64bit.jar and the data in test/. Open the cmd or termi
 **test-genelist.txt** is a list of genes pre-defined by user.
 **BIOGRID-ORGANISM-Mus_musculus-3.2.103.tab.txt** is PPI data download from [BioGRID](http://thebiogrid.org/downloads/archives/Release%20Archive/BIOGRID-3.2.103/BIOGRID-ORGANISM-3.2.103.tab.zip).
 
-The result will be saved in the directory output/. The *.net and *.xgmml files can be load into **Pajek** and **CytoScape** respectively. See the example in test/output/phyNet/simulatedAnnealing.
+The result will be saved in the directory output/. The \*.net and \*.xgmml files can be load into **Pajek** and **CytoScape** respectively. See the example in test/output/phyNet/simulatedAnnealing.
 
 
 Citation
