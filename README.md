@@ -37,6 +37,4 @@ Li, G., Li, M., Zhang, Y., Wang, D., Li, R., Guimera, R., . . . Zhang, M. Q. (20
 Contact
 -------
 
-Author: Guipeng Li
-
 Email:  guipeng.lee@gmail.com
