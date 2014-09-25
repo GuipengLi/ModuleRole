@@ -31,7 +31,7 @@ The result will be saved in the directory output/. The \*.net and \*.xgmml files
 Citation
 --------
 
-Li, G., Li, M., Zhang, Y., Wang, D., Li, R., Guimera, R., . . . Zhang, M. Q. (2014). ModuleRole: A Tool for Modulization, Role Determination and Visualization in Protein-Protein Interaction Networks. PLoS One, 9(5), e94608. doi: 10.1371/journal.pone.0094608
+Li, G., Li, M., Zhang, Y., Wang, D., Li, R., Guimera, R., . . . Zhang, M. Q. (2014). ModuleRole: A Tool for Modulization, Role Determination and Visualization in Protein-Protein Interaction Networks. PLoS One, 9(5), e94608. doi: 10.1371/journal.pone.0094608  [paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094608)
 
 
 Contact
