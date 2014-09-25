@@ -16,7 +16,6 @@ Availability
 
 ModuleRole is implemented in Java and C, and is available at [bioinfo.org](http://www.bioinfo.org/modulerole/index.php). Supplementary information (user guide, demo data) is also available at this website. See more details in this [paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094608)
 
-
 Usage
 -----
 Download ModuleRoleV1.3.1_64bit.jar and the data in test/. Open the cmd or terminal, then run:
@@ -29,12 +28,10 @@ Download ModuleRoleV1.3.1_64bit.jar and the data in test/. Open the cmd or termi
 The result will be saved in the directory output/. The *.net and *.xgmml files can be load into **Pajek** and **CytoScape** respectively. See the example in test/output/phyNet/simulatedAnnealing.
 
 
-
 Citation
 --------
 
 Li, G., Li, M., Zhang, Y., Wang, D., Li, R., Guimera, R., . . . Zhang, M. Q. (2014). ModuleRole: A Tool for Modulization, Role Determination and Visualization in Protein-Protein Interaction Networks. PLoS One, 9(5), e94608. doi: 10.1371/journal.pone.0094608
-
 
 
 Contact
@@ -43,4 +40,3 @@ Contact
 Author: Guipeng Li
 
 Email:  guipeng.lee@gmail.com
-
